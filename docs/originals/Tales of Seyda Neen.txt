@@ -1,0 +1,155 @@
+=================================================================
+       The Tales of Morrowind I: Tales of Seyda Neen 1.2
+                  	By: Denunci 
+=================================================================
+
+1. Installation
+2. Description/Use
+3. Credits
+4. Notes
+5. Contact and Usage
+6. Version History
+7. Save Games
+8. Spoilers
+
+=================================================================
+1. INSTALLATION
+=================================================================
+
+The .zip file should contain two (2) files: 
+1. This Readme
+2. Clean Tales of Seyda Neen
+
+To install the plugin, unzip the .zip file into your Morrowind directory. 
+Make sure the esp is in the Data Files directory. 
+
+If you are upgrading from version 1.0 or 1.1, simply replace the .esp file in the data files.
+
+Start the Launcher and click on 'Data Files' and Search for the .esp, Clean Tales of Seyda Neen. 
+Double click on the box to add the changes to your world
+
+This mod Requires only Morrowind, nothing else.
+
+=================================================================
+2. DESCRIPTION/USE
+=================================================================
+
+Introducing the first chapter of my mod, Tales of Morrowind, The Tales of Seyda Neen!
+
+The Tales of Seyda Neen was inspired by A.P. Hilliard's Tales of the Bitter Coast and Tales of Tel Branora.
+It was designed to give more quests for the adventurer who is just starting out, and for those who want some new low-leveled quests.
+There is a total of seven quests, with one that you can keep on repeating for a meager reward (yet useful).
+Most of the New NPCs have less generic dialogue. A few responses for the new quests have been added for certain vanilla NPCs.
+
+=================================================================
+3. CREDITS 
+=================================================================
+
+A.P. Hilliard for making the Tales of the Bitter Coast, and Tales of Tel Branora and for inspiring me to make this.
+Srikandi for her/his wonderful dialogue tutorial.
+
+bjam for striving to create Argoush's move script!
+
+Everyone at the TES forums for making my day complete!
+
+=================================================================
+4. Notes
+=================================================================
+
+I tried and tried to make new scripts for Argoush (making him move around after finishing his quest) and Nallaia (giving her a lying down effect, to simulate painful feet), but to no avail. I might try to look into these for future releases.
+
+As with almost all mods, starting a new game is recommended, but not required.
+This mod has been cleaned with TESAME
+
+Recommended Plugins: 
+A.P. Hilliard's Tales mods
+LGNPC Seyda Neen
+Morrowind Comes Alive
+Vality's Bitter Coast Mod
+My next mod
+
+=================================================================
+5. CONTACT & USAGE
+=================================================================
+
+Feel free to distribute my mod, but make some effort into giving me credit.
+
+If you have any questions, suggestions or reactions you can contact me via PM on the elderscrolls forums. My board name is Denunci.
+Emails are also accepted at denunci_death@yahoo.com. Please include [TES Mod] in the subject for me not to classify your letter as junk
+Don't worry... I'll be around for a while to update this mod. You don't have to.
+
+=================================================================
+6. Version History
+=================================================================
+
+v1.2
+Rebalanced a couple of quests
+Rebalanced reward for Bottle Quest (reduced armor and value)
+Reworked Argoush's move script (thanks bjam!)
+Reworked Russula quest, it now requires 20 instead of 10
+Fixed egg and russula quests (quest givers now take the items from you)
+Improved a few journal entries
+
+v1.1
+Fixed Numerous bugs (most on the Bottle Merchant's quest)
+Fixed Akimares name (she wasn't intended to have the same name as the grotto) and gave her a journal entry (yet you still don't have to return her tanto)
+Fixed the journal entry pertaining to "Skull" and changed it to "remains"
+Added a couple of new rewards (also removed two of the armor pieces in the cave of the Bottle Merchant)
+Added two new quests (one not necessarily in Seyda Neen, though. Search the surrounding area)
+Squashed some other bugs I forgot about
+
+=================================================================
+7. SAVE GAMES
+=================================================================
+
+This plugin will not invalidate your old saved games. If you save 
+your game while this plugin is loaded, you may encounter error messages 
+when you reload the saved game without the plugin. But you will be
+able to continue on with the original game.
+
+=================================================================
+8. SPOILERS
+=================================================================
+
+Why would you want to spoil this? Well, anyways...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New NPC Locations
+a. Beside the Census Office Wall
+b. In the river a bit west of Seyda Neen, near the shacks area.
+c. Near the lightpost (not really a quest. A helpful hint)
+d. Inside Arrille's Tradehouse
+e. Near the crossroads on the outskirts of town
+f. On the road from Seyda Neen to Pelagiad
+g. Somewhere below Arrille's Tradehouse
