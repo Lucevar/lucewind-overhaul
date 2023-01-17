@@ -4,14 +4,11 @@
 
 ## Interiors
 * Coast Guard HQ
--- Room for Socucius? or in Census & Excise office maybe  
 -- Room for commanding officer  
--- Holding cell?  
 * Halfmast Hostel
 -- Replace with de furniture
 * Glass Parrot
 * Census and Excise Office
--- Remove black light  
 -- Guard in the break room (optional addon)  
 
 ## NPCs
@@ -64,18 +61,17 @@
 * Double check reward balance (Rah-Jahr: bring him ten for health potion, afterwards he pays you three per crab meat?)
 * Slave lady - Rewrite quest. Make her one of the working ladies? Something going on with one of the coast guard officers maybe, she's got attached but he has a wife back in Cyrodiil?
 * Rewrite any dialogue referring to the message in the bottle if it relies on Addamasartus being close to town
+* Nord with the tanto - have her ask for it back or something
 
 ## AST Arrille's Attic
 ### Merge
-* Assign bed renting dialogue to Arrille
-* Increase price of bed for the night to 15
 * Remove changes to Tandram
 * Assign attic to Tandram instead of making it rentable?
 * Have a note to Tandram about rent up there or something?
+* Add note to Arrille about not having any beds free
 
 ## Swap Addamasartus & Samarys
 ### Optional
-* Find Addamasartus
 * Remove extra trees from Samarys
 * Double check that dialogue fits and that I actually like this change
 
@@ -84,11 +80,6 @@
 * Continue making position tweaks
 * Add a bit more variation and detailing
 * Add vcol
-
-## Fargoth's Ring Unbarrelled
-### Merge
-* Move ring for compatibility with mesh replacers
-* Merge into main
 
 ## Nineholes at Arrille's
 * Merge into main
