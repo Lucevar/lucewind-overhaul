@@ -1,7 +1,3 @@
-## Assets
-* Glass Parrot shack collision
-* Get mesh for the fishing boat from TD graveyard. Add to esp as an object.
-
 ## Interiors
 * Coast Guard HQ
 -- Room for commanding officer  
@@ -14,17 +10,15 @@
 ## NPCs
 * Coast guard on docks outside
 * Coast guard/navy officer in coast guard HQ
-
-## Homeless NPCs
-* Tandram  
-* Elone  
-* Tolvise Othralen  
+* Arghoush - hair 21/6
 
 ## Dialogue
-* Eldafire dialogue should reflect new location of Addamasartus
 * Services dialogue should mention the new buildings
 * Greetings for new NPCs
 * Beds at Halfmast Hostel - should be 5 gp but risk fleas
+* Beds - Anastasius - sleazy af
+* Beds - Arrille - no room in the inn
+* Beds - Rylen - you'll have to go to the halfmast, or try your luck at Arrille's. As far as I know he has people crammed in up to the rafters though.
 
 ## Patches
 * Shipyards of Vvardenfell
@@ -49,14 +43,8 @@
 
 ## Tales of Seyda Neen
 ### Merge
-* Rename NPCs to be more lore-friendly
--- Argoush - surname; he's an outlander. Brother of dunmer lady?  
--- Orc - patronymic  
--- Dunmer lady - surname; she's an outlander tho
-* Make Rah-Jahr an employee/owner of one of the two new pubs
 * Make the NPCs generally "just landed in Vvardenfell" hopeful/despondent colonists
-* Move Argonian under balcony?
-* Give Argonian a de table, or maybe a stall. Give her OAAB bottles too.
+* Give Argonian OAAB bottles too.
 * Rewrite quest dialogue - lore friendliness + writing style pass
 * Double check reward balance (Rah-Jahr: bring him ten for health potion, afterwards he pays you three per crab meat?)
 * Slave lady - Rewrite quest. Make her one of the working ladies? Something going on with one of the coast guard officers maybe, she's got attached but he has a wife back in Cyrodiil?
@@ -65,21 +53,5 @@
 
 ## AST Arrille's Attic
 ### Merge
-* Remove changes to Tandram
-* Assign attic to Tandram instead of making it rentable?
 * Have a note to Tandram about rent up there or something?
 * Add note to Arrille about not having any beds free
-
-## Swap Addamasartus & Samarys
-### Optional
-* Remove extra trees from Samarys
-* Double check that dialogue fits and that I actually like this change
-
-## Rainforest of the Bitter Coast
-### Optional
-* Continue making position tweaks
-* Add a bit more variation and detailing
-* Add vcol
-
-## Nineholes at Arrille's
-* Merge into main

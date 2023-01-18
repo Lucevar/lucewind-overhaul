@@ -32,3 +32,9 @@
 * Added bedrooms for the two captains and Socucius, cluttered
 * Cluttered CG foyer and added Capt. Carsen
 * Made Anyiaboth one of the CG Captains
+* Fixed shack collision mesh
+* Added deprecated fishing boat mesh to esp
+* Moved An-Drazh and Rah-Jahr to their new homes
+* Gave Iyani a surname
+* Nuked all the darklights
+* Cluttered Halfmast
