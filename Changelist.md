@@ -14,3 +14,21 @@
 * Locked warehouse door, unlocked door of C&E office
 * Renamed Adraria Vendacia's House to Processus Vitellius's House
 * Replaced light outside Halfmast with a regular travel lantern
+* Merged Nine-Holes at Arrilles into main
+* Removed dialogue and Tandram edits from AST Arrilles
+* Merged AST Arrilles Attic into main
+* Rainforest of the BC now patched for Shipyards of Vvardenfell
+* Removed some trees and fungus from around Samarys in the Samarys/Addamasartus swap esp
+* Tweaked dialogue in the swap esp
+* Made COM patch - moved the kids to just outside the CG quarters, out of the way of the main square to reduce congestion
+* Tales of Seyda Neen
+-- Moved Anyiaboth onto the docks, gave her a surname
+-- moved An-Drazh under shack balcony
+-- Gave Argoush a surname, various minor dialogue tweaks, tweaked his wandering so he wanders onto tavern street instead of the main square
+-- Moved Rah-jahr to near the docks
+* Removed darklights from Eldafire's house
+* Fixed clipping walls in C&E office (former warehouse section)
+* Added some windows to CGQ and attics
+* Added bedrooms for the two captains and Socucius, cluttered
+* Cluttered CG foyer and added Capt. Carsen
+* Made Anyiaboth one of the CG Captains
