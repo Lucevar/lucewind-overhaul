@@ -47,3 +47,6 @@
 * Changed Teleri Helvi's shack to a round shack
 * Added ability to rent beds from Halfmast
 * Added ownership to a bunch of stuff
+* Removed outside stall for now
+* Removed NOD dependency
+* Added missing meshes to repo
