@@ -12,7 +12,7 @@ Expands Seyda Neen using Nwahs & Mushrooms Seyda Neen as a base. Seyda Neen is d
 * Clutter to make Seyda Neen feel lived in
 * Many new NPCs, most of whom have at least a little unique dialogue
 * Overhauled the interior of Arrille's Tradehouse
-* Overhauled the interior of the Census & Excise office. The warehouse is now separate, there are cells for prisoners, and Sellus Gravius gets a room of his own. 
+* Overhauled the interior of the Census & Excise office. The warehouse is now separate, there are cells for prisoners, and Sellus Gravius gets a room of his own. Also, the interior now matches the exterior better - there were windows on the ext but not on the int!
 * Fargoth's ring is now found on the floor beside the barrel, so people roleplaying law-abiding characters don't have to break character and steal from the barrel to continue.
 
 ### Rainforest of the Bitter Coast by viKING
