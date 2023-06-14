@@ -37,7 +37,6 @@ Swaps the positions of the two dungeons, to reduce the absurdity of bandits oper
 ## Requirements
 * OAAB Data
 * Tamriel Data
-* NOD
 * tes3merge (merged objects.esp)
 * merged lands
 
