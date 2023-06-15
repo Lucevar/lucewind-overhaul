@@ -1,18 +1,21 @@
 ## Interiors
-* Census and Excise Office
--- Guard in the break room (optional addon)  
+-- Attic in coast guard building
+-- Attics in C&E
 
 ## NPCs
 * Coast guard on docks outside
 
 ## Dialogue
 * Services dialogue should mention the new buildings
+* Someone in particular dialogue should mention Carsen, Fauceius and Rylen
+* Arrille should offer a bed (for 15gp) if you helped Fargoth
 
 ## Patches
 * Shipyards of Vvardenfell
 -- Change corkbulb for hackle-lo
 -- Dialogue tweaks
-* Vegetto Swamp Trees/Graht Trees?
+-- Int changes
+* Vegetto Swamp Trees/Graht Trees? (seems fine so far)
 * Hermits Request
 * OAAB Twin Lamps/Hla Odai update
 * Imperial Employment Agency (move guy in Arrille's so he's not standing in the Repair mod anvil)

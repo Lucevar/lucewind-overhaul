@@ -50,3 +50,6 @@
 * Removed outside stall for now
 * Removed NOD dependency
 * Added missing meshes to repo
+
+## 15/06/2023
+* Moved or removed trees in Rainforest of the BC for better compatibility with Graht Trees, Grahtwood Roost, and OAAB Brother Juniper's Twin Lamps
