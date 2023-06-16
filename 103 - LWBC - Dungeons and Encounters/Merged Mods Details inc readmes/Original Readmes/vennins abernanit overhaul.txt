@@ -1,0 +1,9 @@
+From: Nexus page
+Link: https://www.nexusmods.com/morrowind/mods/52457
+Author: vennin
+
+An overhaul of the Abernanit cave keeping its original design in mind using OAAB_Data.
+
+The entire original cave is still where it normally is (in the same cell) in case another mod adds something there you want.
+
+Requires OAAB_Data.

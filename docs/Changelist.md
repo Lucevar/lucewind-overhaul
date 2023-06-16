@@ -53,3 +53,21 @@
 
 ## 15/06/2023
 * Moved or removed trees in Rainforest of the BC for better compatibility with Graht Trees, Grahtwood Roost, and OAAB Brother Juniper's Twin Lamps
+
+## 16/06/2023
+[x] Moved two trees in Graht Trees for compatibility with Shipyards of Vvardenfell and Dura gra-Bol & the Grab-All Gang  
+[x] Renamed cell to Hallanannit, Doctor's Sanctuary to be more in line with Morrowind's naming conventions   
+[x] Dim light   
+[x] Remove bats - they kept getting stuck  
+[x] Added a 'someone in particular' line to Okaw, hinting at a connection between the smugglers in Addamasartus and the Plague Doctor.  
+[x] Moved RFotBC tree for compatibility with Expedition to Mzelthuand  
+[x] Added a note from Plague Doctor to Mulvisie  
+[x] Added Khajiit skeleton messenger to Addamasartus  
+[x] Deduplicated NPCs in Addamasartus  
+[x] Deduplicated NPCs in Abernanit  
+[x] Added a few more sounds to Abernanit  
+[x] Merged dungeon + encounters mods (Weird Science, Plague Doctor, Addamasartus Overhaul, Abernanit Overhaul, Addamasartus and Samarys Swapped, OAAB Greater Samarys)  
+[x] Added crabs diversity  
+[x] Added Erengard Mine Redux patch - reduced sunlight levels in office and mine significantly, fixed caspering on the mine entrance door
+[x] Overhauled repo structure 
+[x] Patched BC grass for Smuggler's Run compatibility
