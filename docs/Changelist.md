@@ -71,3 +71,54 @@
 [x] Added Erengard Mine Redux patch - reduced sunlight levels in office and mine significantly, fixed caspering on the mine entrance door
 [x] Overhauled repo structure 
 [x] Patched BC grass for Smuggler's Run compatibility
+
+## 17-18/06/2023
+ESEP 
+=========
+[x] Fix Habasi quest showing up too early
+Animations?
+
+Graht
+=========================
+[x] Added some more trees around the Plague Doctor island to hide it a bit better
+[x] Added some trees around the Camonna Tong islands
+
+Lucewind Resources
+===========================
+[x] Added Seyda Neen rocks
+[x] Added Dim's Seyda Neen buildings
+[x] Added R0's common_m padded chairs
+
+Dim's Rundown Bitter Coast Buildings
+==========================
+[x] Added meshes
+[x] Added to Lucewind Resources esm
+[x] Swapped buildings in Seyda Neen to new meshes
+[x] Added option to swap buildings with Dim's versions (light and dark)
+[x] Released on Nexus
+
+Xen-Arien's Manor
+==========================
+[x] Added patch
+[x] Swapped buildings with Dim's Shabby Seyda Neen buildings
+[x] Added rocks from Seyda Neen (wolli) - has some caspering, but has a better silhouette when seen from Seyda Neen now
+
+Seyda Neen
+===============
+[x] Added rumors about strange islands and characters out in the swamps
+[x] Added little advice in Seyda Neen about staying out of the swamp muck
+[x] Added tavern banners for Arrille's, the Halfmast, and the Parrot
+[x] Swapped buildings to the Shabby Seyda Neen - light wood variant 
+[x] Gave Sellus Gravius a fireplace
+[x] Replaced some TD rugs in the C&E with OAAB rugs
+[x] Added fireplace to Arrille's
+[x] Cleaned dirty dialogue
+
+Thieves Guild in Gnaar Mok
+=======================
+[x] Added patch
+[x] GMSTs nuked
+
+Grass
+====================
+[x] Removed some grass for better compatibility with Grahtwood Roost
