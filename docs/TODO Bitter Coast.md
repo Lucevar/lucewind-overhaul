@@ -6,10 +6,10 @@ Plague Doctor
 
 Shipyards
 =============
-- Declone shipyard int
-- Add dorm for workers
-- Dialogue pass
-- Fix Thelas tomb accessibility (evil path adds a door)
+[x] Declone shipyard int
+[x] Add dorm for workers
+[x] Dialogue pass
+[x] Fix Thelas tomb accessibility (evil path adds a door)
 
 [x] [ a note ] Typo fix
 [x] [ accompany me on my way back ] typo fix
@@ -26,7 +26,7 @@ Shipyards
 [x] [ here to save me ] added a few words for flavour 
 [x] [ my workers ] minor tweaks
 [x] [ seen anything out of the ordinary ] minor tweaks
-[x] [ seen my wife ] minor tweaks, reworded choice, reworded entry beginning with ENOUGH so that it doesn't imply the PC is a dunmer.
+[x] [ seen my wife ] minor tweaks, reworded choice, reworded entry beginning with ENOUGH so that it doesn't imply the PC is a dunmer, filtered so only available if PC has Lalaine's ring.
 [x] [ signed the contract ] minor tweaks, added a sentence for flavour
 [x] [ slaves have escaped ] minor tweaks
 [x] [ something to report ] minor tweaks
@@ -37,18 +37,34 @@ Shipyards
 [x] [ greeting 1 ] cleaned some vanilla lines, reworded some, some flavour, Eris will start combat along with Odral
 [x] [ greeting 2 ] cleaned some vanilla lines
 [x] [ journal entries ] minor tweaks
-[x] renamed the scrolls of Galmes seal given by the slaves so that they're easily distinguished
-[] redecorated Antonius's house
-[] made a dorm for the seyda neen shipyard workers
-[] thelas tomb door only activates when the evil quest starts
-[] add option to give daral a cure disease potion
-[] add latest rumor about noises in gnaar mok if you don't cure daral
-[] a lil dialogue for lalaine
-[] nolore the workers; give them my trade entries
-[] remove unclean vanilla dialogue 
-[] Shipwright's bedroom
 
-[go one step further] -> should probably have an option to decline
+[x] renamed the scrolls of Galmes seal given by the slaves so that they're easily distinguished
+[x] redecorated Antonius's house
+[x] made a dorm for the seyda neen shipyard workers
+[x] thelas tomb door only activates when the evil quest starts
+[x] test thelas door actually works
+[x] Added [my trade] and [background] entries to the shipyard workers in Seyda Neen, except Larisus who I gave a goodbye in the greeting because he says he doesn't have time to talk
+[x] nolored two of the shipworkers.
+[x] remove unclean vanilla dialogue
+[x] added pathgrid to antonius's house  
+[x] Gergio should start with high disposition.
+[x] add gergio-owned version of the shipwright cell
+[x] lalaine ring is unique
+[x] Traveller capitalisation
+[x] Antonius dialogue tweak - should avoid implying PC is a dunmer
+[x] Antonius should steadily lose disposition when being threatened
+[x] fixed: freeing the slaves (ma'vassa and co) doesn't increase freed slave counter
+[x] edited ma'vassa script so forcegreeting should happen at a lower distance - shouldn't be able to happen when talking to goras
+[] lalaine tea greeting when in her house
+[] streamline mavon - journal entry when you first talk to him
+[] shabby seyda neen version
+[] oaab shipwrecks version
+[] add option to give daral a cure disease potion
+[] add option to refuse the kidnapping; Mavon attempts to convince you, once, then attacks. Thelas door disabled.
+[] add dialogue for gergio. 
+[] bedroom for goras
+[] greetings for lalaine in the tomb: scared of the sounds, when can i go home? after contract is signed: just leave me alone.
+
 
 Weird Science
 ==============
