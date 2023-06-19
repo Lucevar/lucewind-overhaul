@@ -122,3 +122,18 @@ Ctroost/Vengyre WA presets
 Astrologian's Guild
 ==========================
 - Check compatibility
+
+Seyda Neen
+==========================
+[x] Add attics
+[x] Swap interiors
+- Add mini-quest to Carsen saying he can't pay you for clearing Addamasartus, but if you do it he'll find some way of rewarding you
+[x] Add Aetherial Ephemeris to the CG hq
+[x] Add the farmer book somewhere as well
+- add [smuggling] responses to Carsen and Delves-Deep
+- retex attic ladders
+[x] replaced buildings with _dp version
+
+Lucewind Resources
+===========================
+[x] Add new shabby resources
