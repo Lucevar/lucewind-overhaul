@@ -122,3 +122,107 @@ Thieves Guild in Gnaar Mok
 Grass
 ====================
 [x] Removed some grass for better compatibility with Grahtwood Roost
+
+## 19/06/2023
+Lucewind Resources
+===========================
+[x] Added new shabby resources
+
+Shipyards of Vvardenfell
+===========================
+[x] Declone shipyard int
+[x] Add dorm for workers
+[x] Dialogue pass
+[x] Fix Thelas tomb accessibility (evil path adds a door)
+[x] [ a note ] Typo fix
+[x] [ accompany me on my way back ] typo fix
+[x] [ background ] cleaned vanilla entries, typo fixes, slightly reworded Goras's high disposition entry
+[x] [ build boats out of mushrooms ] disembark -> set sail, minor rewording of first entry
+[x] [ did you find the staff ] capitalisation changes
+[x] [ earn some coins ] capitalisation changes, punctuation in choices, minor rewording
+[x] [ find my boat ] capitalisation changes, minor rewording of the choice response, more reaction to the fact there was a vampire 
+[x] [ find the ship ] Capitalisation changes, dreughs -> dreugh, minor rewording
+[x] [ found my slaves ] minor rewording
+[x] [ go one step further ] minor punctuation, added another choice for rp (some characters won't care if someone gets hurt)
+[x] [ have gained his trust ] minor rewording
+[x] [ have gone too far ] minor tweaks
+[x] [ here to save me ] added a few words for flavour 
+[x] [ my workers ] minor tweaks
+[x] [ seen anything out of the ordinary ] minor tweaks
+[x] [ seen my wife ] minor tweaks, reworded choice, reworded entry beginning with ENOUGH so that it doesn't imply the PC is a dunmer, filtered so only available if PC has Lalaine's ring.
+[x] [ signed the contract ] minor tweaks, added a sentence for flavour
+[x] [ slaves have escaped ] minor tweaks
+[x] [ something to report ] minor tweaks
+[x] [ this operation ] minor tweaks, typo fix
+[x] [ trapped Eris ] minor tweaks
+[x] [ who sent you to find us ] minor tweaks, added a sentence for flavour
+[x] [ wind ] minor tweaks
+[x] [ greeting 1 ] cleaned some vanilla lines, reworded some, some flavour, Eris will start combat along with Odral
+[x] [ greeting 2 ] cleaned some vanilla lines
+[x] [ journal entries ] minor tweaks
+
+[x] renamed the scrolls of Galmes seal given by the slaves so that they're easily distinguished
+[x] redecorated Antonius's house
+[x] made a dorm for the seyda neen shipyard workers
+[x] thelas tomb door only activates when the evil quest starts
+[x] test thelas door actually works
+[x] Added [my trade] and [background] entries to the shipyard workers in Seyda Neen, except Larisus who I gave a goodbye in the greeting because he says he doesn't have time to talk
+[x] nolored two of the shipworkers.
+[x] remove unclean vanilla dialogue
+[x] added pathgrid to antonius's house  
+[x] Gergio should start with high disposition.
+[x] add gergio-owned version of the shipwright cell
+[x] lalaine ring is unique
+[x] Traveller capitalisation
+[x] Antonius dialogue tweak - should avoid implying PC is a dunmer
+[x] Antonius should steadily lose disposition when being threatened
+[x] fixed: freeing the slaves (ma'vassa and co) doesn't increase freed slave counter
+[x] edited ma'vassa script so forcegreeting should happen at a lower distance - shouldn't be able to happen when talking to goras
+
+
+## 20/06/2023
+Dungeons and Encounters
+=========
+[x] remove mist?
+[x] lock the book room door
+[x] buff minions
+[x] restore tree that was accidentally deleted by Plague Doctor
+
+Seyda Neen
+==========
+[x] Add attics
+[x] Swap interiors
+[x] Added quest to Carsen saying he can't pay you for clearing Addamasartus, but if you do it he'll find some way of rewarding you
+[x] Add Aetherial Ephemeris to the CG hq
+[x] Add the farmer book somewhere as well
+[x] add [smuggling] responses to Carsen and Delves-Deep
+- retex attic ladders
+[x] replaced buildings with _dp version
+[x] Created key for coast guard attic
+[x] Created key for c&e attic, furnished attack, added key (with ownership) in c&e, made attic faction owned so players using alice's c&e can use it.
+[x] Replaced de_ bed in Legionary barrack with com_. Also gave them pillows and fixed a floating lantern.
+[x] Added more dialogue to Carsen. He'll now give you a quest to clear out Addamasartus, and allow you to use the coast guard attic to rest if you do.
+[x] Add a line of dialogue so Carsen doesn't repeat himself if Mulvisie is dead
+- Tandram will sell you his bed for a night, at a hugely marked up price
+[x] Added some lines to [local savages], [background] and [someone in particular]
+[x] Demoted Carsen to Lieutenant, created Captain Andrian Avicus
+- Notes on Carsen's board:
+[x] 9T - ilunibi
+[x] complaints from Eldafire
+[x] complaints from Arrille about being undercut on prices
+[x] dura gra-bol
+[x] tales of seyda neen message in a bottle
+[x] boethiah
+[x] mudcrab the other day
+[x] Swapped attic trap doors with Dim's sexy new mid/rich versions
+[x] Replaced Carsen and Andrian's furniture with com_mid
+
+Lucewind Resources
+=========================
+[x] Added classes [Coast Guard] and [Courtesan]
+[x] Added Dim's trap door resources
+
+BCOM
+===================
+[x] Nab the Odai bridge
+[x] Nab clutter in Hla Oad and Gnaar Mok
