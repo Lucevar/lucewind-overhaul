@@ -12,10 +12,6 @@ Shipyards
 [] bedroom for goras
 [] greetings for lalaine in the tomb: scared of the sounds, when can i go home? after contract is signed: just leave me alone.
 
-AFFresh
-====================
-- Book compatibility in Samarys Tomb
-
 Grass
 ====================
 - Generate grass for BJTL islands
@@ -37,10 +33,6 @@ Leeches
 OAAB BJTL
 =========================
 - Dialogue for CT island
-
-Astrologian's Guild
-==========================
-- Check compatibility
 
 Sales & Sails
 =========================

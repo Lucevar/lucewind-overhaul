@@ -224,5 +224,18 @@ Lucewind Resources
 
 BCOM
 ===================
-[x] Nab the Odai bridge
-[x] Nab clutter in Hla Oad and Gnaar Mok
+[x] Nabbed the Odai bridge
+[x] Nabbed clutter in Hla Oad and Gnaar Mok
+
+Gnaar Mok
+==========================
+[x] Fixed druegh-jiggers and removed duplicate NPCs
+
+Dungeons
+==========================
+[x] path grid in Addamasartus
+[x] tweak enemy positions
+
+Rainforest of the Bitter Coast
+==========================
+[x] Moved tree near odai bridge to accommodate new cliff
