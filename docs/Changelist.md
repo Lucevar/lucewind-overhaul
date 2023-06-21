@@ -239,3 +239,23 @@ Dungeons
 Rainforest of the Bitter Coast
 ==========================
 [x] Moved tree near odai bridge to accommodate new cliff
+
+## 21/06/2023
+
+Seyda Neen
+==========================
+[x] Swapped Carsen and Andrian's bed for vanilla versions
+[x] Swapped rowboats for activator floating versions
+[x] added creak sounds to rowboats
+
+Thieves Guild in Gnaar Mok
+=======================
+[x] Dialogue tweaks
+
+Gnaar Mok
+=======================
+[x] Created Shabby Gnaar Mok with DimNussens - run down meshes for Arenim manor, an interior attic
+
+Leeches
+=======================
+[x] Dialogue tweaks and proofreading

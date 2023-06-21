@@ -30,3 +30,30 @@ SN Cluttering
 Animated Morrowind
 ========================
 - Animated Morrowind for BC
+
+Thieves Guild in Gnaar Mok
+=======================
+- add early quest: deliver warning to Caryarel
+- less murder-y options
+- more quests at the beginning to make the CT feel like an actual threat
+
+Smuggler's Run
+======================
+- Another quest target for the coast guard?
+- OAABify
+
+Sales & Sails
+=========================
+- Standalone row boats
+
+Shurinbaal
+=========================
+- Move it, maybe make an island?
+
+Haldenshore/Havish
+==========================
+- shabby versions?
+
+OAAB BJTL
+=========================
+- Dialogue for CT island
