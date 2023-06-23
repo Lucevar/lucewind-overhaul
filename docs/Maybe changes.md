@@ -26,6 +26,10 @@ SN Cluttering
 -- expedition to mzelthuand
 -- old man of the sea
 -- khartag
+- Quest: Carsen & Adorinia fall in love, take Processus's old house
+- Quest: Missionary goes on an anti-vice campaign, gets the Half-Mast shut down and turned into an Imperial cult shrine
+OR
+- Quest: Fauceius recruits you to help drive the missionary out of town.
 
 Animated Morrowind
 ========================

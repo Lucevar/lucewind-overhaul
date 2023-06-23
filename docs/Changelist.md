@@ -259,3 +259,55 @@ Gnaar Mok
 Leeches
 =======================
 [x] Dialogue tweaks and proofreading
+
+## 23/06/2023
+====================
+Shipyards
+=============
+[x] lalaine tea greeting when in her house
+[x] %PCName, how lovely to see you again! Perhaps I can pour you a cup of tea, and you can tell me all the latest rumors.
+[x] streamline mavon - journal entry when you first talk to him
+[x] Have you found a way to gain ???'s trust yet?
+[x] add option to give daral a cure disease potion
+[unwell] PC has cure common disease potion
+[x] "Yes, I'm not feeling well. I'm sure it's just the shock of it all. I can hardly believe I'm still alive. I don't know how to thank you."
+Choice "Still, you'd better take this potion." 1 "Yes, I'm sure it's just the shock." 2
+[x] Well, it won't hurt, will it? *drinking sound* Thank you, %PCName, I do feel much better now.
+[x] I'm sure I'll feel better soon. 
+[x] add option to refuse the kidnapping; Mavon attempts to convince you, once, then attacks. Thelas door disabled.
+Choice "I won't do this." 2
+[x] Don't get cold feet now, %PCName. It'll all be peaceful as you please - ??? loves his wife, I'm sure he'll see reason quickly, without us having to resort to anything drastic. I don't want to hurt her either, you know.
+Choice "Fine. As long as we don't hurt her." 3
+"No. This is wrong." 4
+-- I knew you were-- line
+[x] What a shame. Then I'm afraid I must do you some violence, %PCName. I can't have you telling tales to them just because you're too cowardly to see the thing through. There's too much at stake here. 
+[x] add dialogue for gergio. 
+[x] Ah, if it isn't my favourite %PCRace! What brings you here today? Are you here to purchase one of our ships?
+[x] %PCName. How can I help you? Are you here to purchase one of our ships?
+[x] [background] I'm a shipwright. I bought this place from ???. Fair and square, right, %PCName?
+[x] greetings for lalaine in the tomb: scared of the sounds, when can i go home? after contract is signed: just leave me alone.
+[x] Just leave me alone.
+[x] W-what was that noise? Do you think there are g-ghosts?
+[x] When can I go home to my husband, %PCName? Please, I just want to go home.
+[x] Check dialogue topic necessary to buy ships from Sales & Sails
+[x] add sailcloth
+[x] boost lalaine disposition if you side with Antoninus
+[x] Lalaine loses disposition throughout the kidnapping
+[x] boost mavon disposition throughout quest
+[x] toned down the reward from Antonius: now only 1000 gp
+[x] cleaned [feel ill] vanilla dialogue
+[x] tweaked Ma'Vassa greeting
+[x] re-extended Ma'Vassa forcegreet slightly, to 225
+[x] Helping the Argonian slaves now increases the Freed Slaves Count
+[x] Slaves left -> leave
+[x] Fix script errors in Mavon dialogue
+[x] Slightly rearranged Wind-in-Ears sentences
+[x] Reduce reward for rescuing Daral
+[x] Lalaine dialogue out of order
+[x] Add a line to Mavon for 'earn some coins' once he's already told you to get hired once
+[x] Goras Selman: emphasise Gergio being loyal to him in particular
+[x] Added disposition boost to Goras after the quest
+[x] [find my boat] north from here -> north of here
+[x] added nolore to argonian slaves
+[x] Added a line to Odral - "At last someone heard us...!" now has a female variant
+[x] Added goodbye to Ma'Vassa after he runs

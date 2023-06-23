@@ -1,0 +1,4 @@
+[x] Edited the terrain textures in Fatleg's Camp to better match the rest of the bitter coast
+[x] Created Lush Synesthesia grass patch
+[x] Fixed some floaters and added a bit of clutter around Fatleg's
+[x] Added mushroom lights
