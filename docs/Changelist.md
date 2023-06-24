@@ -311,3 +311,34 @@ Choice "Fine. As long as we don't hurt her." 3
 [x] added nolore to argonian slaves
 [x] Added a line to Odral - "At last someone heard us...!" now has a female variant
 [x] Added goodbye to Ma'Vassa after he runs
+[x] moved shipyard building down; it had too many floors
+[x] added attics
+[x] added dialogue to Antonius and Oritius for the case where the player refuses to kidnap
+[x] set gergio's wander ai to 0
+
+Brother Juniper's Twin Lamps
+=====================
+[x] Edited the terrain textures in Fatleg's Camp to better match the rest of the bitter coast
+[x] Created Lush Synesthesia grass patch
+[x] Fixed some floaters and added a bit of clutter around Fatleg's
+[x] Added mushroom lights
+[x] added an attic in the strongman's shack in fatleg's
+
+## 24/06/2023
+Seyda Neen
+=======================
+[x] Fixed notes
+[x] Took palisades and banner from original Seyda Neen (ty hater8)
+
+Ashen Divide
+=======================
+[x] Added cliff and tree in pass
+
+Rainforest of the Bitter Coast
+========================
+[x] Moved tree for better compatibility with ashen divide cliff
+
+Grass
+====================
+[x] Generate grass for BJTL islands
+[x] Generate grass for Dura gra-Bol islands
