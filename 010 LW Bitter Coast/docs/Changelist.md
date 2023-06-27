@@ -1,3 +1,23 @@
+## 27/06/2023
+Started going up
+
+Lucewind Resources
+===================
+[x] add sn assets to lucewind resources
+[x] add new dim assets to lucewind resources
+
+Shipyards
+=============
+[x] shabby seyda neen version
+
+Seyda Neen
+=============
+[x] move missionaries inside Parrot
+[x] make inside room into a bedroom
+[x] move sailors into halfmast or cg quarters
+[x] replace one of the hm hammocks with a table and have them playing cards
+[x] add legion banner on c&e
+
 # Seyda Neen - Damp Little Squat
 * Started with Seyda Neen by hater8 as a base
 * Added three new buildings - Coast Guard HQ, The Glass Parrot, and the Halfmast Hostel. Added some dock pieces and clutter to round out these locations.

@@ -1,28 +1,13 @@
 Seyda Neen
 ============
 [] Arrille should offer a bed (for 15gp) if you helped Fargoth
-[] move missionaries inside Parrot
-[] move old dunmer outside and give him a booze shelf
-[] add outside ladder up to parrot
-[] make inside room into a bedroom
-[] move sailors into halfmast or cg quarters
-[] replace one of the hm hammocks with a table and have them playing cards
-[] add legion banner on c&e
 [] vodunius sitting outside his house
-[] dialogue - make rylen assistant not owner
+[] have the old dunmer in the parrot grouch about not owning it any more and wonder where all the real customers are (they're being scared off by missionary dude)
 [] JOP paintings - addamasartus bandits, shal, fjol
 [] nine-holes addon
 [] thirteen telvanni addon
 
-Lucewind Resources
-===================
-[] add sn assets to lucewind resources
-[] add new dim assets to lucewind resources
-[] add urh resources to lucewind resources
 
-Shipyards
-=============
-[] shabby seyda neen version
 [] oaab shipwrecks version
 
 BJTL
