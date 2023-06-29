@@ -1,3 +1,7 @@
+## 28/06/2023
+[x] Added Release ID replacer using Korana resource
+[x] Added Shurinbaal wip with new BC islands outside Gnaar Mok
+
 ## 27/06/2023
 Started going up
 
