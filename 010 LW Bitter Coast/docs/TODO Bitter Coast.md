@@ -16,9 +16,6 @@ BJTL
 [] add option to complete questline without being the Nerevarine - by killing Bolvyn, Orvas, Gothren, Neloth, Dratha, and Therana
 [] fix faction reaction bug
 
-Shurinbaal
-=====================
-- Make island and move
 
 Khartag Point/Rocky West Gash
 =======================
