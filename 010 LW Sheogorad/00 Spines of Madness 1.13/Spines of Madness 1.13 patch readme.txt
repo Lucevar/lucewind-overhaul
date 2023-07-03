@@ -1,0 +1,2 @@
+[x] Moved some rocks for compatibility with Dagon Fel lighthouse
+[x] Moved some rocks for compatibility with Dagon Fel mill

@@ -1,0 +1,1 @@
+[x] Removed two deprecated TR maps and replaced them with Guides to Vvardenfell

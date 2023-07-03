@@ -1,3 +1,4 @@
 Edited for compatibility with:
 
 [x] Caldera Priory
+[x] Fixed floating rock near Gnisis
