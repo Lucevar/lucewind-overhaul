@@ -2,3 +2,5 @@ Edited for compatibility with:
 
 [x] Caldera Priory
 [x] Fixed floating rock near Gnisis
+[x] Fixed floating rock in Balmora behind Caius's house
+[x] Moved a rock set on the other end of the street from Caius to better fit my slum dwelling
