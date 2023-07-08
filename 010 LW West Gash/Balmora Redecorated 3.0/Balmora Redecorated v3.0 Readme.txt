@@ -27,6 +27,11 @@ The mod has been cleaned with Enchanted Editor, and shouldn't need to be re-clea
 Details:
 =================
 
+3.0 highlights:
+- Now uses OAAB/TD assets
+- Many ints in the commercial quarter swapped to de_mid
+- Now includes an edited and extended version of RandomPal's Hlaalu Council Manor Overhaul
+
 Changes were made to the following 21 cells:
 
 Balmora, Astius Hanotepelus' House
@@ -40,6 +45,7 @@ Balmora, Draryne Thelas's House
 Balmora, Fast Eddie's House
 Balmora, Hecerinde's House
 Balmora, Hlaalu Council Manor
+Balmora, Meldor: Armorer
 Balmora, Nalcarya of White Haven
 Balmora, Nine Toes' House
 Balmora, Rarayn Radarys' House
@@ -105,6 +111,34 @@ Version 3.0
 [x] Added Hlaalu Council Manor Overhaul by RandomPal
 [x] This also allows me to fix a conflict between Balmora Redecorated 2.0 and RP's mod
 [x] Added meshes by MwGek
+[] Added optional exterior addon to add things like trade banners
+
+Astius Hanotepelus' House
+==================
+[x] Replaced Redoran rugs with alternates
+[x] Added potters wheel
+[x] Added some OAAB clutter
+
+Balyn Omarel's House
+==================
+[x] Added a little bit of OAAB clutter
+
+Clagius Clanler
+==================
+[x] Replaced furniture with de_mid
+[x] Removed cobbled bunk bed and replaced it with OAAB de_mid version
+[x] Added some OAAB/TD clutter
+
+Dorisa Darvel
+==================
+[x] Swapped furniture with de_m
+[x] Swapped redoran rug with alternate
+[x] added some clutter
+
+Dralasa Nithryon
+===================
+[x] Swapped redoran rug out for alternate
+[x] Added a bunch of OAAB/TD clutter - her inventory is a lil more interesting now
 
 Hlaalu Council Manor
 ==================
@@ -112,6 +146,16 @@ Hlaalu Council Manor
 [x] Replaced furniture in the highest floor with de_m (only the public areas get the good stuff)
 [x] Reduced size of top floor to match ext a bit better
 [x] Converted the top floor corner into a consultation space and moved the barrels etc into storage on the lowest floor
+
+Meldor
+======================
+[x] Swapped furniture with de_m
+[x] Added a little OAAB/TD clutter
+
+The Razor Hole
+=======================
+[x] Swapped to de_mid furn
+[x] Swapped redoran rug for alternate
 
 03/04/2020 - Version 2.2
 Cleaned some duplicate records, and stray WGHT entries. Also fixed some minor placement glitches in Nine-Toe's House and Vorar Helas's House.
