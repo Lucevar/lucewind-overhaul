@@ -1,0 +1,200 @@
+Balmora Redecorated v3.0
+By Lucevar
+
+=================
+Requirements:
+=================
+
+Morrowind
+Tribunal
+Bloodmoon
+
+The mod uses some furnishings from both expansions. It's designed to work with a few other mods, but it's not dependant on them.
+
+=================
+Description:
+=================
+
+Many of the houses and shops in Balmora are very generic, and don't reflect the personality and social status of their owners (or any personality at all). Moreover, with Children of Morrowind running, many children have no place to sleep in their assigned "parent"s house. This mod adds extra detail and clutter to 19 Balmora interiors (see the Details section below for more precise lists of what I've changed), making them more interesting to visit (and in some cases, a little more profitable to the skilled thief - although I've been careful not to include anything unbalancing). 
+
+Homes actually feel lived in now. Everything I've added has a reason to exist - but I leave the interpretation to your imagination. Enjoy!
+
+It uses entirely vanilla resources, and won't overwrite any resources you have installed or invalidate your save games.
+
+The mod has been cleaned with Enchanted Editor, and shouldn't need to be re-cleaned.
+
+=================
+Details:
+=================
+
+Changes were made to the following 21 cells:
+
+Balmora, Astius Hanotepelus' House
+Balmora, Balyn Omarel's House
+Balmora, Clagius Clanler: Outfitter
+Balmora, Dorisa Darvel: Bookseller
+Balmora, Dralasa Nithryon: Pawnbroker
+Balmora, Dralcea Arethi's House
+Balmora, Dralosa Athren's House
+Balmora, Draryne Thelas's House
+Balmora, Fast Eddie's House
+Balmora, Hecerinde's House
+Balmora, Hlaalu Council Manor
+Balmora, Nalcarya of White Haven
+Balmora, Nine Toes' House
+Balmora, Rarayn Radarys' House
+Balmora, Ra'Virr: Trader
+Balmora, Tsiya's House
+Balmora, Tyermaillin's House
+Balmora, Vorar Helas' House
+Balmora, Vori's House
+Balmora, West Gash Region, -2,-2 
+Balmora, West Gash Region, -3,-2 
+
+Balmora exterior cells: Nothing has been added to these cells; they're marked as changed only because I had to move door markers so that the player isn't stuck on the new furniture.
+
+I haven't changed any of the taverns in Balmora. Instead, I recommend the following mods:
+
+South Wall, Den of Iniquity by Balastruthius
+The Seedy Plates by Von Django
+Lucky Lockup Additions by Midgetalien
+Balmora Guilds Expanded (also by me)
+
+=================
+Installation:
+=================
+
+1. Extract this archive to any folder and then copy the contents to Morrowind's Data Files folder.
+2. Start Morrowind Launcher, click Data Files, and enable Balmora Redecorated v2.1.esp
+
+=================
+Un-Installation:
+=================
+
+1. Save your game in a cell, preferably an interior, that isn't affected by this mod, and close Morrowind.
+2. Start Morrowind Launcher, click Data Files, and disable the Morrowind Interior Decoration - Balmora.esp file(s).
+3. Delete the .esp file from your Morrowind/Data Files folder.
+
+
+=================
+Compatibility:
+=================
+
+Beautiful Cities of Morrowind - it contains an edited version of this mod, so they're incompatible. Don't use them together.
+
+Epic Balmora - There's a very, very minor issue, in that Epic Balmora adds a keg where I add a bed in Astius Hanotepelus's House. 
+
+Other than that, no conflicts that I'm aware of. Any mod that edits any of the same cells as this one have the possibility of conflicting.
+
+If you find a mod that conflicts, please let me know so I can update this and create a patch.
+
+Particular Notes:
+
+Should be loaded before any lighting mods such as TLM, so that their ambient lighting changes can take effect. I've cleaned this mod of the automatic ambience changes the CS makes, but it's still a good idea to load this earlier just in case.
+
+Compatible with Children of Morrowind (it was made as a companion mod of sorts, although it doesn't require COM) - Clagius Clanler, Tsiya and Dralcea Arethi's children 
+now have beds to sleep in.
+
+Compatible with Nemon's Balmora Interiorator - we only touch two of the same cells, and even then, we edit completely different parts of the building. You could run the two together for an even more complete Balmora interior overhaul :)
+
+=================
+Changelog:
+=================
+Version 3.0
+==================
+[x] Added Hlaalu Council Manor Overhaul by RandomPal
+[x] This also allows me to fix a conflict between Balmora Redecorated 2.0 and RP's mod
+[x] Added meshes by MwGek
+
+Hlaalu Council Manor
+==================
+[x] Added a lower floor with living quarters for the retainers (including the player once you join) and a private room for Nileno, as ranking Hlaalu 
+[x] Replaced furniture in the highest floor with de_m (only the public areas get the good stuff)
+[x] Reduced size of top floor to match ext a bit better
+[x] Converted the top floor corner into a consultation space and moved the barrels etc into storage on the lowest floor
+
+03/04/2020 - Version 2.2
+Cleaned some duplicate records, and stray WGHT entries. Also fixed some minor placement glitches in Nine-Toe's House and Vorar Helas's House.
+
+14/1/2015 - Version 2.1
+Cleaned AMBI records for compatibility with lighting mods.
+
+13/1/2015 - Version 2.0
+Overhauled 10 more cells: 
+
+Balmora, Astius Hanotepelus' House 
+Balmora, Balyn Omarel's House 
+Balmora, Dralosa Athren's House 
+Balmora, Draryne Thelas's House 
+Balmora, Fast Eddie's House 
+Balmora, Hecerinde's House 
+Balmora, Nine Toes' House 
+Balmora, Rarayn Radarys' House 
+Balmora, Vorar Helas' House 
+Balmora, Vori's House 
+Balmora, West Gash Region, -2,-2
+
+Version 1.0
+Original version. Improvements made to these cells: 
+Balmora, Clagius Clanler: Outfitter 
+Balmora, Dorisa Darvel: Bookseller 
+Balmora, Dralasa Nithryon: Pawnbroker 
+Balmora, Dralcea Arethi's House 
+Balmora, Hlaalu Council Manor 
+Balmora, Nalcarya of White Haven 
+Balmora, Ra'Virr: Trader 
+Balmora, Tsiya's House 
+Balmora, Tyermaillin's House 
+Balmora, West Gash Region, -3,-2
+
+=================
+Known Issues:
+=================
+
+If you run the full version without Children of Morrowind installed, some NPCs will have extra beds for children that don't actually exist, which may seem strange. Please use the "non-COM" version in the Extras folder if that bothers you. The mod itself will run perfectly fine without COM installed though.
+
+
+=================
+History:
+=================
+
+15/07/2013 - version 1.0
+13/1/2015 - version 2.0
+14/1/2015 - version 2.1
+03/04/2020 - version 2.2
+07/2023 - version 3.0
+
+
+=================
+Contact Details:
+=================
+
+
+I can be contacted at Nexus or on the Morrowind Modding Community Discord
+
+
+=================
+Credits:
+=================
+
+Thanks to InsanitySorrow for his ReadMe Generator this file is based on.
+Thanks to Bethesda for creating Morrowind - you've given me many thousands of hours of enjoyment.
+Thanks to Emma, whose excellent Children of Morrowind mod inspired this. 
+
+* MwGek for some of the Hlaalu meshes and the open chest mesh
+* RandomPal for some of the decoration which was either inspired by or taken from BCOM and his Hlaalu Council Manor Overhaul.
+* OAAB and TD teams for assets
+
+
+=================
+Tools Used:
+=================
+
+Insanity's ReadMe Generator
+Elderscrolls Construction Set
+
+=================
+Licensing/Legal:
+=================
+
+Feel free to upload this to any site if it becomes unavailable at Morrowind Nexus or MMH, to use it in a compilation or as part of another mod. In other words, you can do what you like with it, please just give me credit as the original author and let me know so I can check your work out!
