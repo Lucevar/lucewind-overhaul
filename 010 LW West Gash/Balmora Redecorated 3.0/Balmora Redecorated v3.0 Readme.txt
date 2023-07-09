@@ -140,6 +140,12 @@ Dralasa Nithryon
 [x] Swapped redoran rug out for alternate
 [x] Added a bunch of OAAB/TD clutter - her inventory is a lil more interesting now
 
+Dralcea Arethi
+====================
+[] Decobbled
+[] Added some OAAB/TD clutter
+[] Swapped redoran rug for alternate
+
 Hlaalu Council Manor
 ==================
 [x] Added a lower floor with living quarters for the retainers (including the player once you join) and a private room for Nileno, as ranking Hlaalu 
