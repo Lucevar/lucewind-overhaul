@@ -142,9 +142,28 @@ Dralasa Nithryon
 
 Dralcea Arethi
 ====================
-[] Decobbled
-[] Added some OAAB/TD clutter
-[] Swapped redoran rug for alternate
+[x] Decobbled
+[x] Added some OAAB/TD clutter
+[x] Swapped redoran rug for alternate
+
+Dralosa Athren
+=====================
+[x] Swapped Redoran rug for alternate
+[x] Added some oaab clutter
+
+Drarayne Thelas
+==================
+[x] Swapped Redoran rug with alternate
+
+Fast Eddie's House
+==================
+[x] Swapped hammock for rug version
+[x] Added some OAAB/TD clutter
+
+Hecerinde's House
+====================
+[x] Swapped Redoran rug for alternate
+[x] Added a little OAAB/TD clutter
 
 Hlaalu Council Manor
 ==================
@@ -153,15 +172,99 @@ Hlaalu Council Manor
 [x] Reduced size of top floor to match ext a bit better
 [x] Converted the top floor corner into a consultation space and moved the barrels etc into storage on the lowest floor
 
+Itan
+======================
+[x] Fixed broom clipping through tapestry
+[x] Swapped Redoran rug for alternate
+[x] Added a little OAAB/TD clutter
+
+Karlirah
+=======================
+[x] Replaced Redoran rug with alternate
+[x] Added a little bit of redguard clutter for flavour - just stuff that could have been brought with her when she emigrated
+[x] Added a little OAAB/TD clutter
+
 Meldor
 ======================
 [x] Swapped furniture with de_m
 [x] Added a little OAAB/TD clutter
 
+Milie Hastien
+=======================
+[x] Added dressmaker clutter
+[x] Replaced Redoran rug with alternate
+[x] Replaced de_p furn with de_r
+[x] Upgraded rugs
+[x] Upgraded bar
+[x] Turned store-room into a dressing room for customers
+[x] Added another table with a bit of stock to fill space - new shoe collection just dropped
+
+Nalcarya
+=======================
+[x] Upgraded desk
+[x] Replaced Redoran rugs
+[x] Completely rearranged int
+[x] Guard now wanders
+[x] Added some OAAB/TD clutter
+
+Nine-Toes
+========================
+[x] Swapped rugs with poor versions
+[x] Added a little OAAB/TD clutter
+[x] Added netch pack
+[x] Swapped hammock with rug version
+[x] Poor Nine-Toe's house now leaks... bad landlord!
+
+Ra'virr
+=========================
+[x] Removed daedric censer
+[x] Added incense holder
+[x] Removed rugs from wall
+[x] Added some oaab clutter
+
+Rarayn Radarys
+========================
+[x] Added torn tapestry
+[x] Crumpled rug
+
+Rithleen
+=======================
+[x] Added clutter
+[x] Added slopey bit matching ext
+[x] added practice area
+
 The Razor Hole
 =======================
 [x] Swapped to de_mid furn
 [x] Swapped redoran rug for alternate
+
+Tsiya
+===========================
+[x] Hammock with rug
+[x] Cushions
+[] Hanging bundles
+[x] Some oaab clutter
+[x] Removed daedric incense
+
+Tyermailin
+==========================
+[x] Replaced Redoran rug
+[x] Added healer clutter
+[x] Moved desk for better compatibility with Balmora Waterworks
+[x] moved chairs to help navigation a bit
+
+Vorar Helas
+======================
+[x] Removed Redoran rug
+[x] Added some oaab clutter
+
+Vori's House
+=====================
+[x] Removed Redoran rug
+[x] more stoneflower on the floor, just grass in the pot
+[x] downgraded bed
+[x] swapped big rug for torn version to show rat damage
+[x] moved rat to somewhere it's less likely to get stuck
 
 03/04/2020 - Version 2.2
 Cleaned some duplicate records, and stray WGHT entries. Also fixed some minor placement glitches in Nine-Toe's House and Vorar Helas's House.
