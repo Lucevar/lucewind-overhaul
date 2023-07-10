@@ -213,7 +213,7 @@ Nine-Toes
 [x] Added a little OAAB/TD clutter
 [x] Added netch pack
 [x] Swapped hammock with rug version
-[x] Poor Nine-Toe's house now leaks... bad landlord!
+[x] Poor Nine-Toe's house now leaks... bad landlord! Sound only plays during rain or thunderstorms.
 
 Ra'virr
 =========================
