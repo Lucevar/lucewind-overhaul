@@ -8,6 +8,8 @@ Requirements:
 Morrowind
 Tribunal
 Bloodmoon
+OAAB Data
+Tamriel Data
 
 The mod uses some furnishings from both expansions. It's designed to work with a few other mods, but it's not dependant on them.
 
@@ -32,7 +34,7 @@ Details:
 - Many ints in the commercial quarter swapped to de_mid
 - Now includes an edited and extended version of RandomPal's Hlaalu Council Manor Overhaul
 
-Changes were made to the following 21 cells:
+Changes were made to the following 25 cells:
 
 Balmora, Astius Hanotepelus' House
 Balmora, Balyn Omarel's House
@@ -41,15 +43,20 @@ Balmora, Dorisa Darvel: Bookseller
 Balmora, Dralasa Nithryon: Pawnbroker
 Balmora, Dralcea Arethi's House
 Balmora, Dralosa Athren's House
-Balmora, Draryne Thelas's House
+Balmora, Drarayne Thelas's House
 Balmora, Fast Eddie's House
 Balmora, Hecerinde's House
 Balmora, Hlaalu Council Manor
+Balmora, Itan's House
+Balmora, Karlirah's House
 Balmora, Meldor: Armorer
+Balmora, Milie Hastien: Fine Clothier
 Balmora, Nalcarya of White Haven
 Balmora, Nine Toes' House
 Balmora, Rarayn Radarys' House
 Balmora, Ra'Virr: Trader
+Balmora, Rithleen's House
+Balmora, The Razor Hole
 Balmora, Tsiya's House
 Balmora, Tyermaillin's House
 Balmora, Vorar Helas' House
@@ -57,7 +64,7 @@ Balmora, Vori's House
 Balmora, West Gash Region, -2,-2 
 Balmora, West Gash Region, -3,-2 
 
-Balmora exterior cells: Nothing has been added to these cells; they're marked as changed only because I had to move door markers so that the player isn't stuck on the new furniture.
+Balmora exterior cells: Nothing has been added to these cells; they're marked as changed only because I had to move door markers so that the player isn't stuck on the new furniture. Make sure to load this BEFORE any mods that change exteriors.
 
 I haven't changed any of the taverns in Balmora. Instead, I recommend the following mods:
 

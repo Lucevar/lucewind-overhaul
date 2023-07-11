@@ -1,0 +1,105 @@
+Even Seedier Eight Plates
+by Lucevar
+v1.5
+
+
+Visual overhaul of the Eight Plates tavern in Balmora
+ ﻿- Now you can see the namesake Eight Plates - and steal them!
+﻿ - A new balcony and private parlour on the upper level, overlooking the bar
+﻿ - Animated NPCs to provide a more lifelike atmosphere
+﻿ - A bard with custom music
+﻿ - A proper kitchen for Dulnea Ralaal
+ - A better room for rent - correspondingly more expensive
+
+Includes and expands Von Django's The Seedy Plates﻿, which means:
+6 new NPCs, all with unique dialogue - some is suggestive, none is explicit
+Unique dialogue for vanilla npcs 
+One new Thieves Guild quest - now you can steal the Eight Plates! Talk to Habasi about jobs after you've secured Balmora's defenses.
+
+﻿
+Requirements
+================
+
+OAAB Data﻿
+Tamriel Data﻿
+Don't forget to register TR_Data.bsa and PT_Data.bsa!
+
+Installation
+=================
+
+Ideally, start a new game after installing this mod. If you've already visited the Eight Plates in your existing save, some of the vanilla NPCs who received new animations may have glitchy positions.
+
+00 Core - the main files of the mod
+01 Correspondences of Morrowind patches - just use one esp, replace the original Correspondances of Morrowind.esp 
+02 MCA patches - activate in addition to MCA.esm
+03 Animated Morrowind Patches - replace Abot's Animated Morrowind Merged esp. Note: if you're using RandomPal's town overhauls, you probably want to check his archives for a patch that works with ESEP and his mods.
+
+
+Compatibility
+=================
+
+Balmora - Seat of Power of House Hlaalu - use the patch provided by that mod
+Beautiful Cities of Morrowind - use the patch provided by that mod
+Animated Morrowind merged - I've included an esp replacer patch - use if you're not using a patch provided by one of the mods above
+Correspondences of Morrowind - I've included an esp replacer patch
+Improved Inns Expanded - use the patch provided by that mod
+MCA 8 - I've included an addon patch. Use in addition to MCA's esm.
+
+OpenMW - Use the openMW version
+Morag Tong Polished - Use the patch in optional files
+Taryn the Warrior Companion - Use the patch in optional files
+
+Credits
+================
+
+Von Djangos - the original work on The Seedy Plates, a mod that's been a permanent part of my install ever since it came out. Thank you again for allowing me to include your work!
+Melchior Dahrk - OAAB assets
+Rats - I used some of Rats' recent work on TR interiors as a style guide for using the new TD Hlaalu set
+OAAB team - lots of assets used
+Tamriel Data team - lots of assets used
+Vidi Aquam - OpenMW animation patch
+niconosave - Taryn incompatibility report
+isNaN - quest bug report
+DimNussens - hanging clothes meshes
+
+and also the people credited in the original Seedy Plates - thank you!
+
+Rx31 - all animations
+Lady E - original bard mesh
+Westly - Matthias head
+Louis - Matthias hair
+Alienslof - Matthias clothing textures
+Snakebitten - cigar assets
+laoqinyou - music, called 'Blue Mountain Night Rain'
+You can find more of his music here 
+http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=70061114
+
+Change log
+=========================
+Version 1.5
+- Upgraded furniture to de_mid
+- Improved the room for rent - it's now spacious and comfortable
+- It also costs more: go to another inn if you can't afford to hang with Hlaalu's shady nobility
+- Added some extra clutter
+
+Version 1.4.1
+- Tweaked bard's position in vanilla version so he stops floating.
+
+Version 1.4
+- Removed steam activator for better compatibility with Ashfall
+- Added OpenMW version with no NPC animations
+
+Version 1.3
+- Fixed bug where Habasi would give you the quest as long as you knew the topic, which broke the TG quests. Now she'll only give the quest if you're a member of the guild AND you've successfully completed the Balmora Defences quest.
+
+Version 1.2
+- Habasi will now take the plates when you turn the quest in
+- Sound should be more centered on the bard now
+- Added Taryn the Warrior Companion patch
+- Added OpenMW anim patch by Vidi Aquam
+
+Version 1.1 
+Additional greetings for Dulnea Ralaal, some dialogue tweaks and typo fixes.
+
+Version 1.0
+Initial release
