@@ -1,9 +1,0 @@
-Pelagiad
-===============
-[x] Sunk fence slightly
-[x] Added vertex painting around the house
-[x] Added fireplaces
-[] Added basement with a room for the servant
-[x] replaced de_ furniture with com_ furniture
-[x] upgraded them to mid/r furniture instead of poor
-[x] Gave poor ol' Antlas some shoes
