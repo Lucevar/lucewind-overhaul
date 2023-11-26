@@ -9,3 +9,6 @@ Mamaea Awakened
 
 Tureynulal and Endusal Redone
 [x] Moved painting so its accessible
+
+Hlaalu Council Manor Overhaul
+[x] Moved painting so it's visible
