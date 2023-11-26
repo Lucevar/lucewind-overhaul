@@ -1,5 +1,0 @@
-RandomPal - Druegh-Jigger's Rest design, taken from BCOM
-RandomPal - tapestries
-Darkry115 - drop off hammock
-DimNussens - meshes from Shabby Gnaar Mok
-Lucevar - implementation & attic interior of Shabby Gnaar Mok

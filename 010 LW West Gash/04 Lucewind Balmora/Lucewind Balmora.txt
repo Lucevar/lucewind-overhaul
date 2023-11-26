@@ -1,9 +1,0 @@
-MwGek's Balmora Waterworks
-My Balmora Slum House
-Shabby Balmora Labour Town
-+ assorted personal additions of my own
-
-[x] Added a bunch of slum buildings
-[x] Added a well and a stall
-[x] Added a food seller
-[x] Changed a bunch of crates to have less valuable loot

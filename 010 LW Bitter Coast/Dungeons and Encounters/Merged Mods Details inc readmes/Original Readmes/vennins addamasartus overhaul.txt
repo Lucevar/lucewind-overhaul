@@ -1,0 +1,9 @@
+from: nexus page
+link: https://www.nexusmods.com/morrowind/mods/52420
+author: vennin
+
+An overhaul of Addamasartus right outside of Seyda Neen using OAAB assets.
+The cave layout is similar to how it originally is.
+
+
+Requires OAAB_Data.

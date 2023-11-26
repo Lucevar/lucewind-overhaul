@@ -1,0 +1,11 @@
+by Lucevar
+
+Redoran Council Overhall
+[x] Moved portraits to fit with the changed layout of Redoran Council Overhall
+
+Mamaea Awakened
+[x] Moved paintings so they're no longer clipping
+[x] Paintings are now back in the same chamber as Dagoth Araynys (in Samsirano)
+
+Tureynulal and Endusal Redone
+[x] Moved painting so its accessible

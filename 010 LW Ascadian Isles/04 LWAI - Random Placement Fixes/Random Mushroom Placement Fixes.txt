@@ -1,1 +1,0 @@
-A parasol mushroom in (-2, -5) was clipping into another mushroom. This moves it very slightly so its no longer clipping.

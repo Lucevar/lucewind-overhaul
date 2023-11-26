@@ -1,4 +1,0 @@
-Replaces the chargen release identification scroll with icon, mesh and textures from Korana's "Authentic Documents" modder's resource.
-
-Credits:
-Korana for the meshes/textures, someone else for the icons (Korana couldn't remember the name, so I can't know who it was - but thank you to whoever it was).

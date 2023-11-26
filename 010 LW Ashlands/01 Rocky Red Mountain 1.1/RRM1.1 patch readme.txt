@@ -1,4 +1,0 @@
-[x] Moved/deleted some rocks for compatibility with ReadMe - Library of Vivec
-[x] Removed the sound effects/damage
-[x] Removed/moved rocks for compatibility with the three Ossuaries in Memento Mori
-[x] Moved some rocks in Ald-ruhn for better compatibility with hater8's Ald-ruhn/BCOM/any other mod based on Xeth-Ban's Temple of Ald-ruhn mod.

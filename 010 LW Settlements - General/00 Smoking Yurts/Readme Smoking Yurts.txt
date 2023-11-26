@@ -1,1 +1,0 @@
-Deletes 3 smoke activators in Erabenimsun Camp, as The Ashlanders moves the yurts and also adds smoke activators.

@@ -1,4 +1,0 @@
-Patch for Ashtaar's Corkbulb Trees
-
-[x] [Arvel Plantation] Moves a corkbulb tree for better compatibility with Concept Art Plantations
-[x] [Arvel Plantation] Added an extra corkbulb tree for funsies
