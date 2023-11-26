@@ -1,0 +1,9 @@
+REQUIRES Rocky West Gash
+
+Rocky West Gash compatibility:
+[x] Moved Demnevanni Manor forwards slightly
+[x] Moved cave out from under the bridge up into the cliffs opposite
+[x] Edited Balmora latest rumor to reflect it's not under the bridge any more
+
+Ruined Molag Mar compatibility:
+[x] Moved fresco
