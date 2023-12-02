@@ -1,0 +1,33 @@
+Builds off RandomPal's version of Animated Morrowind from his misc mods page, circa September 2021
+
+Changes by Lucevar:
+
+02/12/2023:
+[x] Ascadian Isles: Removed slave from Sterdecan's fields
+[x] Ald-ruhn, the Rat in the Pot - moved Orc drummer downstairs
+[] Balmora: Leveled brigants
+---- [] Replace % with some non-hostile encounters
+---- [x] Improved dialogue flow somewhat
+---- [x] Added another possible greeting for brigants
+[x] Balmora: Removes reader from Milie Hastien's balcony, for FPS and city-overhaul compatibility. 
+[x] Balmora: Changes Camonna knife thrower from Dandmer -> Danmer Arano
+[x] Balmora: wall fisher's name changed from Karahas to Cretien Letane, gave him TD head/hair, moved him forward so he doesn't clip into the wall
+---- [] Add dialogue. Trying to fish and not having much luck/meat is rancid. River is polluted.
+[x] Balmora: moved Camonna musician back towards the wall slightly so he's less in the way of the customers
+[x] Balmora: moved the Dunmer beggar Drilvel Hlaren towards Labor Town, because if he were at the temple they would probably just feed him there.
+---- [] Add dialogue. nickname: Drivel. Conman who uses outlander ignorance of Dunmer customs (ie that the Temple makes sure paupers get fed) to rake in alms.
+[x] Balmora: removed AM_Fisherman2 (Orell) for compatibility with more Balmora mods, to save FPS, and because we already have one muppet trying to fish in a polluted city river
+[x] Balmora, Council Club: Changes Orc eater to Dunmer, renames him
+[x] Caldera, Shenk's Shovel: Moves eater for compatibility with Sara Shenk, gives her a surname, gives her a TD head
+[x] Caldera, Governor's Mansion: removed scribe for compatibility
+[x] Pelagiad, Halfway Tavern: Farys -> reduced level from 18 to 8, renamed to Relien Fencard, adjusted position on stool slightly, gave TD head/hair
+[x] Pelagiad, Halfway Tavern: Albesi Vitellus -> adjusted position on stool slightly; removed ashlander clothing and exquisite shoes, gave a more sensible outfit for an Imperial woman in Pelagiad; gave a TD hair
+[x] Pelagiad, Halfway Tavern: AM_Sitter5 -> renamed from Rell to Farys Arathram; adjusted position on seat slightly
+[x] West Gash, Stonewood Pass -> removed edits/cell name change
+[x] Vivec, Elven Nations Cornerclub: moved Klengo for compatibility with Elven Nations Cornerclub Redone, gave him a proper non-random outfit
+
+[x] Molag Mar, Plaza -> remove cell, moved slave NPC into regular worldspace, removed beggar
+[x] Gnisis, Cavern Tavern -> remove cell
+[x] Erabenimsun Camp, Training Yurt -> removed cell, moved drummer into erabenimsun camp worldspace
+[x] Fort Frostmoth -> remove cell
+[x] Skaal Village -> remove cell + edits

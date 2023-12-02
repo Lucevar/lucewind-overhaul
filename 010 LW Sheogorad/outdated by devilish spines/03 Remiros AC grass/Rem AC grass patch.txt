@@ -1,0 +1,2 @@
+[x] Removed some grass around Dagon Fel for better compatibility with Spines of Madness, Dagon Fel Lighthouse, and Dagon Fel Mill Redux
+[x] Removed AC grass; this esp now only has Sheogorad. AC grass now based on Tel Aruhn patch.

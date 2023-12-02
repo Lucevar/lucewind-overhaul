@@ -1,0 +1,10 @@
+Bards of Bardenfell v1.4 patch
+by Lucevar
+02/12/2023
+
+[x] Fixed issue where the PriestChant script started 'begin begin'
+[x] Changed Seyda Neen bard from Raflod to Tandram
+[x] Removed changes to South Wall/Tappius/Chirranirr for compatibility with South Wall mods
+[x] Made Khinjarsi a bard. Desele's needed more atmosphere.
+[x] Added a new lady with a harp in Desele's
+[x] Moves Bard in Shenks Shovel for compatibility with various mods 

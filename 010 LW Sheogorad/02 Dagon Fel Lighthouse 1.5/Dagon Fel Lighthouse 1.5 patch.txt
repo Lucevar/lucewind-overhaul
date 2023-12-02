@@ -1,3 +1,0 @@
-[x] Moved a window for better compatibility with spines of madness
-
--- Make sure to load after (?) Dagon Fel Mill redux

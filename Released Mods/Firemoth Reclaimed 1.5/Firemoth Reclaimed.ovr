@@ -1,0 +1,14 @@
+: MGE XE 0.15 standard distant statics classifier list
+: For more documentation, use the export statics list button in the distant land generator
+
+: Morrowind
+
+[names]
+
+[dynamic_vis]
+: Syntax
+:     <script id> = journal <journal id> start1(-end1)? [ start2(-end2)? .... start8(-end8)? ]
+:     <script id> = global <global var> start1(-end1)? [ start2(-end2)? .... start8(-end8)? ]
+:     <unique object edid> = unique_object [ 0 - 8 additional object edids ]
+
+fm_seyda_clutter_s  = journal fm_2022 200-600

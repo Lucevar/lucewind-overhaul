@@ -1,1 +1,0 @@
-adds collision boxes over the stairs to make the trek up to the tower a little smoother and less nausea-inducing

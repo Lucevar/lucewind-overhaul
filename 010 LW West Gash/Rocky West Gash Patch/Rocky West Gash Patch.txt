@@ -6,3 +6,4 @@ Edited for compatibility with:
 [x] Moved a rock set on the other end of the street from Caius to better fit my slum dwelling
 
 [x] Balmora Docks District
+[x] Tamrielic Treasures

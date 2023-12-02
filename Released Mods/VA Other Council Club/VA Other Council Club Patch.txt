@@ -1,0 +1,6 @@
+by Lucevar
+
+[x] Makes Redoran Guard unique instead of relying on TD template, because TD defaults to <Template> as a name
+[x] Moves the water bowl off the rug
+[x] Cleans some duplicate instances out
+[x] Swapped deprecated TD chairs with original de_p chairs
