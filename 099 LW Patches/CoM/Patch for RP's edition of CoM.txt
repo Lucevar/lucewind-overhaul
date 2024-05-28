@@ -1,0 +1,9 @@
+[x] Arvel plantation -> gives the two children the Arvel name; renames Hrafin to Lleren
+[x] Seyda Neen: Moved fighting kids at Seyda Neen somewhere less irritating
+[x] Seyda Neen: Ehanni -> Ehanni Llenim
+[x] Seyda Neen: Solanhi -> Solani Llenim
+[x] Seyda Neen: Arathas -> Arathas Helvi
+[x] Pelagiad: Claudia and Clavius -> gave Flarugrius surname
+[x] Balmora: Hanessi -> Hanessi Ramothran
+[x] Balmora: Irnisi -> Irnisi Arethi
+[x] Balmora: Derham gra-Hemihl -> Dermakh gro-Shargam

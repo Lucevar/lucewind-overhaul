@@ -1,0 +1,33 @@
+v1.0
+Moved helm in seyda neen to not conflict with SNDLS
+
+v2.0
+Delete:
+- - Molvirian Palenix (or Imperial Legion Armor?)
+- Ughash gro-Batul
+- Dumbuk gro-Bulak
+- Varian Angius
+- vantustius pundus
+sharkub gro-khashnar
+- mug gro-dulob
+- ulumpha gra-sharob
+- dul gro-dush
+- largakh gro-bulfim
+- bogdub gra-gurakh
+- clilias pullia
+- snakha gro-marob
+- General Darius
+- vatollia apo
+
+- Aldaril
+- viccia claevius
+- Glallian Maraennius
+- Sirollus Saccus
+- Raesa Pullia
+- Frostien Ephine
+- ervona barys
+
+Edited:
+Duke's Guard -> T_headnibmalepc_14
+Duke's Guard_tomb -> HeadMaleTR_07
+Duke's Guard_tomb2 -> T_B_IMP_HeadColNorthMaleTR_06

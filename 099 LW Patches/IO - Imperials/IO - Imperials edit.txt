@@ -1,0 +1,32 @@
+IO Imperials Edits
+
+Delete:
+- Erranil
+- Optio Bologra
+- Arathor
+- Habasi
+- Aldaril (allow Buckmoth Legion Fort)
+- fasile charascel
+- adraria vandacia
+- canctunian ponius
+- sjoring hard-heart
+- Varus Vatinius
+- sader
+- ToddTest
+- duke's guard
+- duke's guard_tomb
+- duke's guard_tomb2
+- chargen captain
+- dro'zaymar
+- emusette bracques
+- Imperial Guard_prisoner (oaab grazelands conflict)
+- vedam dren
+- stacey
+- apelles matius
+
+Edit:
+sharkub gro-khashnar - added chain mail + pauldron, increased medium armor
+frostien - green clashes with purple! yuck!
+j'zhirr -> head to TR 9
+llerar mandas -> use TD version of RM cuirass b/c files missing
+ervona barys -> different head/hair

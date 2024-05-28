@@ -1,1 +1,3 @@
 [x] Replaced Sara's room with vanilla com_r set - personal preference
+[x] Replaced chairs in Sara's room with OAAB com_mid brown chairs
+[x] Moved a chair downstairs to the other table so it's out of the way a bit

@@ -1,0 +1,2 @@
+[x] Moves travel NPC in Dagon Fel to not clip with travel npcs added by other mods
+[x] Moves travel NPC in Vivec so that's she's not drowning. Other mods remove the FQ docks.

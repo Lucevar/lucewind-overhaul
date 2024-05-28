@@ -1,0 +1,2 @@
+Moves skulls so that they don't conflict with Hla Oad
+Nevosi Hlan dialogue, fixes error (20 gold should be 200 gold in tavia quest choice)
