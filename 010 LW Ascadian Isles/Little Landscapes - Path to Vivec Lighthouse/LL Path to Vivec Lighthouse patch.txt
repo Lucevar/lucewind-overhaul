@@ -1,0 +1,2 @@
+[x] Compatibility with VA Pipe Emporium
+[x] Compatibility with Tea Mod

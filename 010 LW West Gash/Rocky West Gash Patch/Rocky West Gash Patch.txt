@@ -7,3 +7,4 @@ Edited for compatibility with:
 
 [x] Balmora Docks District
 [x] Tamrielic Treasures
+[x] Moved rock so it doesn't clip into Rothan ancestral tomb entrance

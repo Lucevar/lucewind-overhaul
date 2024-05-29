@@ -1,0 +1,4 @@
+28/05/2024:
+Moved magnus slightly
+added a journal filter to the mysterious breton
+Moved the courier in Ebonheart, Grand Council Chambers. This way if the player is using Castle Imperium she won't be standing stock still in the middle of the room.

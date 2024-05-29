@@ -1,0 +1,5 @@
+1.0
+28/05/2024:
+
+[x] Patched for Caldera Palisade + Caldera
+[x] Patched for Seyda Neen Damp Little Squat

@@ -1,1 +1,5 @@
 Fixes some floating books in Dorisa Darvel's when used with OAAB Balmora Redecorated
+
+28/05/2024:
+[x] Fixed floating statue of Vivec in Hlaalu Council Manor
+[x] Fixed floating icon in Hlaalu Council Manor

@@ -2,6 +2,16 @@ Builds off RandomPal's version of Animated Morrowind from his misc mods page, ci
 
 Changes by Lucevar:
 
+29/05/2024:
+[x] Removed two fishers from Suran harbour (they were floating + deleting them will preserve FPS)
+
+28/05/2024:
+[x] Removed sitter from downstairs in Six Fishes
+[x] Moved Hasell the bard upstairs in Six Fishes
+[x] Removed bard from Lucky Lockup (already covered by Bards of Bardenfell)
+[x] Named sitting slave in Molag Mar, gave him some clothes, and moved him a bit.
+[x] Moved Emuseth for compatibility with Imperium Castle Ebonheart
+
 02/12/2023:
 [x] Ascadian Isles: Removed slave from Sterdecan's fields
 [x] Ald-ruhn, the Rat in the Pot - moved Orc drummer downstairs
@@ -25,9 +35,13 @@ Changes by Lucevar:
 [x] Pelagiad, Halfway Tavern: AM_Sitter5 -> renamed from Rell to Farys Arathram; adjusted position on seat slightly
 [x] West Gash, Stonewood Pass -> removed edits/cell name change
 [x] Vivec, Elven Nations Cornerclub: moved Klengo for compatibility with Elven Nations Cornerclub Redone, gave him a proper non-random outfit
+[x] Vivec, Foreign Quarter Plaza: relocated Molag Mar beggar to here
 
-[x] Molag Mar, Plaza -> remove cell, moved slave NPC into regular worldspace, removed beggar
+[x] Molag Mar, Plaza -> remove cell, moved slave NPC into regular worldspace, moved beggar to Vivec
 [x] Gnisis, Cavern Tavern -> remove cell
 [x] Erabenimsun Camp, Training Yurt -> removed cell, moved drummer into erabenimsun camp worldspace
 [x] Fort Frostmoth -> remove cell
 [x] Skaal Village -> remove cell + edits
+
+
+((shulk, pelagiad, ebonheart, kummu, suran)

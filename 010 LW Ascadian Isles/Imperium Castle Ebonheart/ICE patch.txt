@@ -1,0 +1,3 @@
+Deleted extra copy of Asciene Rane
+Caretaker background -> now only available to NPCs of that class
+Edits transport to vvardenfell script to deposit you on the platform instead of the void

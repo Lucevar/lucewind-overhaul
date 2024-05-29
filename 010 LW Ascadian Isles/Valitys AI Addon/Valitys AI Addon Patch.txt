@@ -1,0 +1,11 @@
+Based on RP's fixed version
+
+Removed trees for compatibility with Juidius Pelagiad windmill
+Moved trees for compatibility with Yul Marshee
+Moved tree for compatibility with Glittergear's Path to Pelagiad/Balmora
+Moved tree for compatibility with Old Pelagiad Well
+Removed tree + bush for compatibility with Stuporstar's Tea Mod
+Moved trees for compatibility with Cozy Cat Condo
+Moved tree for compatibility with Provincial Bath Shoppe
+Moved trees for compatibility with A Fowl Wish
+Moved trees for compatibility with Minuet Cottage/The Professionals/Magical Missions
