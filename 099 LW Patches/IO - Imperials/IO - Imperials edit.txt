@@ -23,6 +23,7 @@ Delete:
 - vedam dren
 - stacey
 - apelles matius
+- aengoth
 
 Edit:
 sharkub gro-khashnar - added chain mail + pauldron, increased medium armor
@@ -32,3 +33,6 @@ llerar mandas -> use TD version of RM cuirass b/c files missing
 ervona barys -> different head/hair
 frald the white -> gave shotn hair b/c the original gets replaced pluginless and it looks bad
 Angoril -> gave him a different face because i didn't like his beard
+Shardie -> gave grey hair
+
+random spawns at buckmoth -> edited for compatibility with Buckmoth Legion Fort
