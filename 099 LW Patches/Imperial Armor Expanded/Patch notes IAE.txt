@@ -31,3 +31,5 @@ Edited:
 Duke's Guard -> T_headnibmalepc_14
 Duke's Guard_tomb -> HeadMaleTR_07
 Duke's Guard_tomb2 -> T_B_IMP_HeadColNorthMaleTR_06
+
+Duplicated the bookshelf in buckmoth so it's there even if Buckmoth Legion Fort (n&m) deletes it.

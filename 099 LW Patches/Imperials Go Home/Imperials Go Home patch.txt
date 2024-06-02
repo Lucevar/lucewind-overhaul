@@ -3,3 +3,4 @@
 
 [x] Patched for Caldera Palisade + Caldera
 [x] Patched for Seyda Neen Damp Little Squat
+[x] Patched for Wolverine Hall Overhaul

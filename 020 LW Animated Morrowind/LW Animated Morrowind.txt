@@ -2,6 +2,11 @@ Builds off RandomPal's version of Animated Morrowind from his misc mods page, ci
 
 Changes by Lucevar:
 
+02/06/2024:
+[x] Decloned some of the slaves
+[x] Did a pass on the names, made many of them more race appropriate, added surnames where appropriate, fixed capitalisation for orc patronyms
+[x] Moved alchemist NPC in Caldera guild of mages very slightly for compatibility
+
 29/05/2024:
 [x] Removed two fishers from Suran harbour (they were floating + deleting them will preserve FPS)
 

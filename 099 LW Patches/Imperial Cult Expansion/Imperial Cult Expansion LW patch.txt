@@ -1,0 +1,5 @@
+Moved Pelagiad knight for compatibility with Doors of Oblivion
+Moved Ebonheart knight for compatibility with Imperium Castle Ebonheart
+Fixed Lukesturm dialogue bug
+Moved Eight Plates lady for a minor compatibility boost with Seedier Eight Plates
+Moved Moonmoth knight for compatibility with Imperial Employment Office

@@ -1,0 +1,6 @@
+31/05/2024
+
+Got rid of floating cutlery
+Fixed a few more weird cutlery placements
+Got rid of the weird questless murder basement
+Replaced the chest in the renter room with one that doesn't have tons of free cash
