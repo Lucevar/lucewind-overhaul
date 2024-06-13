@@ -1,6 +1,8 @@
 Builds off RandomPal's version of Animated Morrowind from his misc mods page, circa September 2021
 
 Changes by Lucevar:
+07/06/2024:
+[x] Edited script on outdoors bards who aren't under cover to make them vanish if the weather is bad: Pelagiad, Mournhold Great Bazaar, Tel Vos
 
 02/06/2024:
 [x] Decloned some of the slaves

@@ -36,3 +36,5 @@ Angoril -> gave him a different face because i didn't like his beard
 Shardie -> gave grey hair
 
 random spawns at buckmoth -> edited for compatibility with Buckmoth Legion Fort
+
+Deleted random guard in Verick Gemain's because he was clipping into a wall when used with OAAB Caldera Interiors
