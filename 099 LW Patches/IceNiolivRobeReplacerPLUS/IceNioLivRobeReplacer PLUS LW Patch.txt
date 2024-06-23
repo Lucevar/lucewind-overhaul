@@ -1,0 +1,4 @@
+20/06/2024:
+[x] Reverted common_robe_01 and extravagant_robe_01_c to their vanilla meshes
+[x] The IceNioLiv replacements have been added to levelled lists as separate items.
+Rationale: I thought they lost something of the character of the originals, but the replacements are beautiful so I wanted them to still be available.

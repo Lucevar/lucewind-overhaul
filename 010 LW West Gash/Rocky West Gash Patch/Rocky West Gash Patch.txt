@@ -1,3 +1,6 @@
+21/06/2024:
+[x] Updated for compatibility with Justice for Khartag
+
 08/06/2024:
 [x] Updated for compatibility with Illuminated Order Improved Fixed - Stoneflower edition
 [x] Updated for compatibility with Dwemer Legacy Reforged - Arkngthunch-Sturdumz

@@ -1,0 +1,4 @@
+Based on https://www.nexusmods.com/morrowind/mods/47737
+
+[x] Moved chest so it's compatible with Immersive Mournhold (and no longer compatible with vanilla, sadly)
+[x] added "" around _hlaalurep->enable/disable to prevent a possible crash.

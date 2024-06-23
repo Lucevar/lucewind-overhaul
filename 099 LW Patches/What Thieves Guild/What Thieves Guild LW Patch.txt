@@ -1,0 +1,11 @@
+[x] Minor tweak to Bacola Closcius's dialogue to remove a mention of the cornerclub being quiet -- to allow for Den of Iniquity.
+[x] Cleaned out some dirty dialogue lines
+[x] Aengoth background: alot -> a lot
+[x] join the Thieves Guild, Vivec: ? -> . when suggesting talking to Gentleman Jim
+[x] little secret: [a golden tail, but no body -> a golden tail, but no body,]
+[x] little secret: [from the best? Course you do -> from the best? 'Course you do]
+[x] little secret: [the bull's gambit is worth a shot. Its like this. -> the bull's gambit is worth a shot. It's like this.]
+[x] little secret: [ I've been the Emporer's guest before. ->  I've been the Emperor's guest before.]
+[x] little secret: [You might think your tough enough -> You might think you're tough enough]
+[x] Thieves Guild: [Its good to have friends, -> It's good to have friends,]
+[x] Thieves Guild: [Just don't believe its about racial hatred.-> Just don't believe it's about racial hatred.]

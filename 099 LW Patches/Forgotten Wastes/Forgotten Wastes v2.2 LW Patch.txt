@@ -1,0 +1,4 @@
+21/06/2024:
+Moved the note in Ald Skar for compatibility with RP's Ald Skar Inn Overhaul
+Moved the builder in Eight Plates veeery slightly for compatibility with Even Seedier Eight Plates
+Fixed a typo in the journal of the supplies quest (a supplies -> supplies)

@@ -1,0 +1,5 @@
+Gave the armigers names and new 'fits :HappyArmiger:
+Gave them both some unique dialogue
+Scripted the stalkers to only appear at a certain stage of the main quest
+Removed a peak for compatibility with Beacons of Mamaea. Moved it to the side the Armigers are on instead.
+Finally, what I actually intended to do when I opened the CS: Some minor adjustments to static placements, fixed a floater or two, opened the foyada back up in a few places to make it easier to navigate

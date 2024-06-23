@@ -1,0 +1,3 @@
+Assorted minor dialogue fixes, capitalisation, spelling, flow tweaks, etc.
+Fixed some smart quotes (converted to regular apostrophe)
+Added two Khajiit-speak lines directing the player to Erlandil.

@@ -1,5 +1,23 @@
 Builds off RandomPal's version of Animated Morrowind from his misc mods page, circa September 2021
 
+19/06/2024:
+[x] Moved AM_Reader5 in the Imperial Commission for compatibility with Imperium Castle Ebonheart. Still compatible with vanilla.
+[x] Renamed AM_Reader5 from Morbelus to Morbelus Kastav.
+[x] AM_Bard12, Suran, House of Earthly Delights: moved Anrell back slightly for better compatibility with Bards of Bardenfell.
+
+13/06/2024:
+[x] Pharil's name changed to Adril Selaro; gave TD head/hair
+[x] Switched AM_LutePlaying bards to luce/AM_Luteplaying with the OpenMW compatible anims:
+	Tel Vos, Pelagiad, Mournhold, Great Bazaar, Sadrith Mora Market, Dagon Fel EOTW, Ald-ruhn, Morvayn Quarters, Vivec, Elven Nations Cornerclub, Moonmoth Legion Fort, Raven Rock, Bar, Thirsk bards x2
+[x] AM_Bard1 Martin Kenor: gave TD head/hair
+[x] AM_Bard5: Neldam -> Neldama
+[x] AM_Bard10: Gave TD hair, changed shirt to bloodmoon wool shirt instead of a hlaalu shirt
+[x] AM_BardBMThirsk: gave TD head/hair
+[x] Pelagiad: added two guards with crossed arms at the gates, inspired by Repopulated Morrowind and using GV's anims
+[x] Vastly reduced distance at which bards will block music
+[x] Moved Raven Rock NPC onto the benches
+
+
 Changes by Lucevar:
 07/06/2024:
 [x] Edited script on outdoors bards who aren't under cover to make them vanish if the weather is bad: Pelagiad, Mournhold Great Bazaar, Tel Vos

@@ -1,3 +1,10 @@
+20/06/2024
+- Edited Rufinus Alleius's stats (unarmoured down, light armour up) so he wears his hat
+- Fixed pathgrids in a lot of the cells (Grand Council Chambers, Imperial Chapels, Imperial Commission etc)
+- Minor clutter edits in the Ducal Chambers with new OAAB assets
+
+Distant past:
+================
 Deleted extra copy of Asciene Rane
 Caretaker background -> now only available to NPCs of that class
 Edits transport to vvardenfell script to deposit you on the platform instead of the void

@@ -7,3 +7,4 @@
 [x] Removed ladder for compatibility with The Professionals
 [x] Removed banners for compatibility with Caldera Governors Manor
 [x] Removed another ladder for compatibility with Indalen Tomb
+[x] Moved barrel/sack for compatibility with Sara Shenk

@@ -1,3 +1,9 @@
+19/06/2024:
+[x] Balmora: Duldla Ondani -> Duldra Ondani
+[x] Balmora: Duldra Ondani: gave different hair
+[x] 1em_Det_3hair115d_f -> changed to black hair
+
+Dim Distant Past:
 [x] Arvel plantation -> gives the two children the Arvel name; renames Hrafin to Lleren
 [x] Seyda Neen: Moved fighting kids at Seyda Neen somewhere less irritating
 [x] Seyda Neen: Ehanni -> Ehanni Llenim

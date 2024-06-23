@@ -1,0 +1,14 @@
+[x] Moved a mucksponge that conflicts with Vality's AI addon 
+[x] Moved some moss so it's not clipping
+[x] Swapped Vampires of Vvardenfell I instead of II
+[x] WARNING! -> Bloodstained warning
+[x] Couple of tweaks to the text in Bloodstained warning
+[x] Swapped desk with com_mid version from TD
+[x] Removed some of the excess gold and expensive clutter (swapped grand soul gem for petty, etc)
+[x] Apothecary's Journal -> minor tweaks
+[x] Removed some skill books
+[x] replaced de_p bookshelves with com bookshelves
+[x] Added a bit of OAAB clutter
+[x] Added a fireplace + chimney
+[x] Assorted minor dialogue tweaks, typo fixes etc. Toned down the use of ellipses.
+[x] Cleaned out some edits of vanilla dialogue lines.

@@ -1,0 +1,2 @@
+Added a line for when the player visits Holamayan without having reached the appropriate stage of the main quest, mirroring the Dissident Priest's caginess in the same scenario.
+Filtered the dissident ordinator's original lines for after rescuing Mehra.
