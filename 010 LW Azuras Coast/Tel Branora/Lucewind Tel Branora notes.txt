@@ -1,0 +1,52 @@
+Tel Branora Expansion
+======================
+- Moved overhang so it's not clipping out the side of the shack
+- Moved clothes line so it's not floating in mid air attached to nothing on one side
+- Moved stool with eggs so it's not clipping with crab traps from Tethered Tel Branora
+- Added a rope and moved floating hooks onto it in alchemist
+- Moved a root in the alchemist so it's not caspering
+- Moved the stairs up to the alchemist so that getting up there is a bit smoother
+
+Tales of Tel Branora
+======================
+- Khajiit-ified a few sentences
+- Swapped smart quotes ’ for regular '
+- Added double quotes around the axe id in dialogue results to fix a bug reported on the nexus page
+- Some mild editing
+
+Tel Branora Alchemist
+=====================
+- Renamed to Golden Pod Brewery
+- Edited dialogue for grammar/typos etc
+- Gave the poor Moussans a double bed and some pillows
+- Downgraded their bookshelf to de_p
+- Put their banner on a pole and gave it the OutsideBanner script
+- Removed outside rug / pot
+
+Scintillating Sethan's Tradehouse - Dialogue only
+======================
+- Spelling/grammar tweaks
+
+Scintillating Sethan's Tradehouse
+======================
+- Spelling / grammar tweaks
+- Replaced de_r furniture with de_mid
+- Moved a lamp that was clipping
+- Replaced imp goblets with de goblets
+- Placed a few bits of clutter, moved some stuff around
+- Added a bit more lighting
+- Added places for the guests to sleep - hammocks on ledges that they have to levitate up to. Gave Llorayna a bargain potion of rising force to sell. Gave one of the guests a potion as well. 
+- Gave the rental bed the right ownership so it becomes Permitted when you rent the bed
+
+Atronach Expansion
+=======================
+- Added rock to hide caspering root in Tel Branora
+- Renamed Mona's shop to Tel Branora, Mona's []
+
+Therana vs Trerayna
+=======================
+- Dialogue tweaks for flow and flavour.
+
+Tethered Tel Branora
+=======================
+- Removed one crab pot, to work better with Tel Branora Expansion. That's it, that's the change.
