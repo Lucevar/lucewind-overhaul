@@ -18,3 +18,7 @@ Edited for compatibility with:
 [x] Balmora Docks District
 [x] Tamrielic Treasures
 [x] Moved rock so it doesn't clip into Rothan ancestral tomb entrance
+
+24/11/2024:
+[x] Updated again for compatibility with Dwemer Legacy Reforged - Arkngthunch-Sturdumz
+[x] Ran OLOB bat - cells around Balmora removed for compatibility with Odai Lifeblood of Balmora
