@@ -1,0 +1,15 @@
+Balmora Temple Redone Reintegrated by Lucevar
+Requires original mod by Markond
+
+- Uses the Compatibility version by StaticNation as a base
+- Renamed Temple, Main Temple to Temple, Temple Hall
+- Moved some of the NPCs back into the vanilla part of the temple
+- Removed the shops from the Hall; moved their clutter back into the vanilla temple
+- Converted the top room of the vanilla temple into a domeless room with offices and shrines. Thanks Stele for the mesh!
+- Recluttered a lot of the temple.
+- Small quest and flavour dialogue (speak to Telis Salvani)
+
+Credits: 
+- Markond for Balmora Temple Redone
+- StaticNation for creating the original compatibility version
+- Stele for creating the version of velothiroom_8 with the flat ceiling for me

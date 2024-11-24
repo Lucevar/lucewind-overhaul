@@ -50,3 +50,8 @@ Therana vs Trerayna
 Tethered Tel Branora
 =======================
 - Removed one crab pot, to work better with Tel Branora Expansion. That's it, that's the change.
+
+Tel Branora - Domain of the Mad Mistres
+=======================
+- fixed pathgrid
+- cleaned with tes3cmd
