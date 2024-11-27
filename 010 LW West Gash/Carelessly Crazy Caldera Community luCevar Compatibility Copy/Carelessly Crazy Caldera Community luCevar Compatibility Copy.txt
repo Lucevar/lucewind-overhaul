@@ -1,0 +1,21 @@
+- Moved parts of the candle shop workshop around to be compatible with Markond's Caldera Palisade
+- Added a chimney to the candle shop exterior
+- Gave the candle shop int a makeover to match my OAAB Caldera Interiors mod
+---- Full makeover upstairs
+---- Added windows to make the int match the ext
+---- Swapped chandeliers in actual use for slightly higher quality wood ones
+---- Minor clutter adjustments to the candle shop downstairs using OAAB/TD assets
+---- Adjusted ambient lighting settings
+---- Locked upstairs
+---- Made guard unique
+---- Added pathgrid
+[x] Santig dialogue tweaks
+[x] Santig and guard AI fixes
+[x] Santig no longer force greets
+[x] Guard at gates will only forcegreet once
+[x] Guard dialogue tweaks
+[x] Dro'Shavir quest: 
+[]---- add some scaffolding about how Dro'Shavir got the money
+---- suggest ways they can meet in secret, then Dro'Shavir refuses? 
+[] Shenk brandy quest -- some other conceit required, reproducing vintage brandy just by tasting it doesn't make sense
+[] Falaanamo / Shenk - give player the opportunity to turn down the booze

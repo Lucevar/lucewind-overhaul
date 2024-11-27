@@ -8,3 +8,8 @@
 [x] Removed banners for compatibility with Caldera Governors Manor
 [x] Removed another ladder for compatibility with Indalen Tomb
 [x] Moved barrel/sack for compatibility with Sara Shenk
+
+26/11/2024:
+[x] Moved clutter near the gates for compatibility with Caldera Palisade
+[x] Lowered rocks near the sign post outside the governors hall
+[x] Rotated some more rocks for compatibility with Caldera Manor Overhaul
