@@ -1,6 +1,6 @@
-- Moved parts of the candle shop workshop around to be compatible with Markond's Caldera Palisade
-- Added a chimney to the candle shop exterior
-- Gave the candle shop int a makeover to match my OAAB Caldera Interiors mod
+[x] Moved parts of the candle shop workshop around to be compatible with Markond's Caldera Palisade
+[x] Added a chimney to the candle shop exterior
+[x] Gave the candle shop int a makeover to match my OAAB Caldera Interiors mod
 ---- Full makeover upstairs
 ---- Added windows to make the int match the ext
 ---- Swapped chandeliers in actual use for slightly higher quality wood ones
@@ -15,7 +15,13 @@
 [x] Guard at gates will only forcegreet once
 [x] Guard dialogue tweaks
 [x] Dro'Shavir quest: 
-[]---- add some scaffolding about how Dro'Shavir got the money
----- suggest ways they can meet in secret, then Dro'Shavir refuses? 
-[] Shenk brandy quest -- some other conceit required, reproducing vintage brandy just by tasting it doesn't make sense
-[] Falaanamo / Shenk - give player the opportunity to turn down the booze
+[x] Shenk brandy quest -- some other conceit required, reproducing vintage brandy just by tasting it doesn't make sense
+[x] Falaanamo / Shenk - gave player the opportunity to turn down the booze
+[x] Gave shenk a disposition boost when he gets the shoes
+[x] Falaanamo - added a short new quest at the start of the chain so that Falaanamo isn't trusting a complete stranger with 700 gold.
+[] option for the player to persuade Falanaamo to pay them at the end
+[x] edited general dialogue for flavour
+[x] added a greeting to theolerva
+[x] turning in quests now increases questgiver disposition
+[x] Removed references to Caldera not being a devout place, for better logical compatibility with Better Governors Manor and Caldera Priory.
+[] removed guard lady's references to Caldera not being a devout place
