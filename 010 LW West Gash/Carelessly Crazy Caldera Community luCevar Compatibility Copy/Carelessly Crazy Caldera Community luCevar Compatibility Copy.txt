@@ -19,9 +19,9 @@
 [x] Falaanamo / Shenk - gave player the opportunity to turn down the booze
 [x] Gave shenk a disposition boost when he gets the shoes
 [x] Falaanamo - added a short new quest at the start of the chain so that Falaanamo isn't trusting a complete stranger with 700 gold.
-[] option for the player to persuade Falanaamo to pay them at the end
+[x] option for the player to persuade Falanaamo to pay them at the end -- if player is an altmer
 [x] edited general dialogue for flavour
 [x] added a greeting to theolerva
 [x] turning in quests now increases questgiver disposition
 [x] Removed references to Caldera not being a devout place, for better logical compatibility with Better Governors Manor and Caldera Priory.
-[] removed guard lady's references to Caldera not being a devout place
+[x] removed guard lady's references to Caldera not being a devout place

@@ -1,2 +1,10 @@
 [x] Gave Nadoth Selmaryn some Telvanni clothes from TD
 [x] Moved him for compatibility with Animated Morrowind.
+
+30/11/2024:
+[x] Added new OAAB items to Adara Omayn's shop
+[x] Swapped Adara Omayn's banner for an OAAB enchanter banner
+[x] Added some OAAB loot to Adara's shop inventory
+[x] Increased ambient lighting in Adara's shop
+[x] Gave Adara a Telvanni outfit + TD head
+[x] Gave Sweeps-Good a telvanni outfit

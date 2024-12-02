@@ -1,0 +1,1 @@
+[x] Moved tea merchant stuff outside Shulk Egg Mine so its no longer floating

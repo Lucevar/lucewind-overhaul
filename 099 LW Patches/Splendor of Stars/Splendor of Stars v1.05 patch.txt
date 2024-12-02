@@ -1,4 +1,0 @@
-29/05/2024: 
-[x] Hid the report in Six Fishes in the fireplace grate of OAAB Six Fishes
-[x] Moved npc in Hlaalu council manor for compatibility with Balmora Redecorated
-[x] Moved npc in Six Fishes for compatibility with OAAB Six Fishes

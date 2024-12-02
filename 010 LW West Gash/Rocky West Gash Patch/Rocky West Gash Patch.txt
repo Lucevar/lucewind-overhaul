@@ -22,3 +22,6 @@ Edited for compatibility with:
 24/11/2024:
 [x] Updated again for compatibility with Dwemer Legacy Reforged - Arkngthunch-Sturdumz
 [x] Ran OLOB bat - cells around Balmora removed for compatibility with Odai Lifeblood of Balmora
+
+29/11/2024:
+[x] Fixed floater in Caldera
