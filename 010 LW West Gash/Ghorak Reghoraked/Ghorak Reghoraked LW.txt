@@ -1,0 +1,3 @@
+Main esp: I changed the dunmer style double bed to a com style one
+Children of Morrowind patch - for RP's version of COM which depends on TOTSP - there was a baby laying on the floor, I've moved him up onto the bed
+Creeper the Scamp - for the vanilla-style version. There was a floating drum now that the crates are gone, I got rid of it

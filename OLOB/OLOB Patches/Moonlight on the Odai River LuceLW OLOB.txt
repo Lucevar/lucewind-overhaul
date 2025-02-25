@@ -1,0 +1,12 @@
+OLOB:
+[x] Removed some rocks
+[x] Moved a kresh plant
+[x] Moved a floating light post
+[x] Moved a dock piece to remove clipping
+
+From previous patches by me:
+Cleaned with tes3cmd 
+Cleaned dialogue with TESAME
+Fixes the "new friends" removetopic bug
+Fixes the filtering on "outlanders" topic
+Some minor dialogue tweaks to fix typos/sentence flow

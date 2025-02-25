@@ -1,0 +1,37 @@
+04/12/2024:
+[x] Landscape edits behind Andrades Tradehouse + added more cliffs to fill in some ugly gap
+
+03/12/2024:
+[x] Added lock to Nalvese Areneth's chest
+[] Added ownership to items in the MG
+[x] Added small staircase up to Findulain's house, moved sewer grate slightly
+[x] Dralcea Arethi's House: adds planks to ceiling to match Findulain's house int above
+	[x] added rubble + bucket
+	[x] swapped rich wall screens for guar screens
+	[x] replaced some clutter with poorer variants
+[x] Findulain's apartment: renamed to Abandoned Apartment and reduced ambient light level, removed illegal to sleep flag. Locked doors. Could be used as a starter home. Logic: Findulain is an egg miner and lives in the shack outside Shulk Egg Mine
+[x] Minor dialogue edits
+
+02/12/2024:
+[x] Added pathgrid around Shulk egg mine
+[x] Adjusted pathgrid around gatemarket
+[x] General pathgrid fixes around Balmora:
+- all ext cells
+- eight plates
+[x] Readded a bridge heading north out of Balmora
+[x] Added some lightposts along the path
+
+[x] Added kwama cliffs outside shulk egg mine
+[x] Shulk egg miner's camp - reduced ambient light to something reasonable
+[x] Fisher north of Balmora - capitalised name
+[x] Removed water mill and bridges north of Balmora
+[x] Added an extra small dock
+[x] Moved fisher to the new dock
+[x] Added a rock blocking the path to the 'hidden' ebony mine
+[x] Dialogue - Gondola -> gondola
+[x] Eight Plates clutter rejig -> moved storage into kitchen, put another table in that nook instead
+[x] Sank campfire outside Shulk so coal edges are less obviously sticking out
+[x] Locked Bacola Closcius's house
+[x] Fixed floating flask in Andrades' Tradehouse
+[x] Almrelos Alaovo -> Amrelos Alavo, also changed cell name
+[x] Added an extra cliff piece to cover an ugly bit of landscape across from the ashen divide

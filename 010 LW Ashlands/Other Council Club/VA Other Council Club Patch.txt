@@ -1,0 +1,5 @@
+by Lucevar
+
+[x] Makes Redoran Guard unique instead of relying on TD template, because TD defaults to <Template> as a name. Removes deprecated script.
+[x] Removes the water bowl
+[x] Cleans some duplicate instances out

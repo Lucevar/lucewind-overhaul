@@ -1,0 +1,6 @@
+[x] Moved to Balmora, in the alley between high town and commerce street
+[x] Swapped library and practice area
+[x] Renamed one suite to Neht suite
+[x] Added more clutter and storage to Neht suite
+
+Assorted other changes I can't remember, sorry

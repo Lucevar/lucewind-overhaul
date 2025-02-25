@@ -1,3 +1,9 @@
+24/02/2025:
+[x] Removed two crates near the north gate for compatibility with Wishmaster
+[x] Removed a tree and a plant for compatibility with Markond's governors manor overhaul
+[x] Removed fence clipping with Caldera Palisade
+
+???
 [x] Removed ladder outside Elmussa's house - better compat with Danae's Caldera
 [x] Lowered wall outside Elmussa's house - better compat with Danae's Caldera
 [x] Lowered two rock groups near the governor's mansion which were a little too high up

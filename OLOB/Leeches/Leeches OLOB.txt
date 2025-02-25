@@ -1,0 +1,6 @@
+[x] Lots of proof-reading/typo fixes
+[x] Plaque rescued from underneath hightown and restored to the tower
+[x] Multiple NPCs rescued from underneath statics
+[x] Row boat crashed onto shore like it should be
+[x] Replaced smart quotes with apostrophes in letter 
+[x] Moved letter so it's actually visible on the door of the Lucky Lockup

@@ -1,2 +1,5 @@
+04/12/2024:
+[x] gnisis art moved for compatibility with very vanilla concept art gnisis
+
 [x] Molag Mar - moved for compatibility with Ruined Molag Mar
 [x] Caldera, Shenk's Shovel - removed imperial symbols, faces and crest moved for compatibility with Sara Shenk

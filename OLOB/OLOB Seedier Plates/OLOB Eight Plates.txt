@@ -1,0 +1,3 @@
+Just NPCs + dialogue + quests
+toned down anims because they're a PITA
+swapped to using the OLOB ids for the plates

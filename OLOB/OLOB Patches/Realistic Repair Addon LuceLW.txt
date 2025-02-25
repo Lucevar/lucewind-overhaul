@@ -1,0 +1,5 @@
+[x] Moved anvils for compatibility with OLOB and my interior mods
+[x] Removed edits to NPCs
+[x] The items that had been added to their inventories are now in containers in cells instead
+[x] Cleaned
+[x] Fixed some floaters

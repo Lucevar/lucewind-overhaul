@@ -1,0 +1,5 @@
+OLOB
+Moved npc in Eight Plates to not be loitering in the kitchen
+
+OLOB + Ald-ruhn
+Also moved note in Ald Skar inn

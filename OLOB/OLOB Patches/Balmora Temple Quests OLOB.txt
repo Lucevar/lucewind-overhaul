@@ -1,0 +1,2 @@
+Moves taxman in balmora very slightly
+Moves mage in Ald Skar inn very slightly for compatibility with RP's Ald Skar mod -- should be compatible with vanilla also

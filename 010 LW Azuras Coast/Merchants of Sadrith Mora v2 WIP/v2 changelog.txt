@@ -8,3 +8,6 @@
 [x] Increased ambient lighting in Adara's shop
 [x] Gave Adara a Telvanni outfit + TD head
 [x] Gave Sweeps-Good a telvanni outfit
+
+[] Added Sadrith Trimmer 
+[] Added dialogue to sadrith trimmer

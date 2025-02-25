@@ -1,0 +1,8 @@
+24/02/2025 for Wishmaster 1.2
+[x] Moved house in Pelagiad so it doesn't clip with the one from A Fowl Wish
+[x] Decreased lighting in the new ints
+[x] Cleaned
+[x] Marked new ints as illegal to sleep
+[x] OLOB compatibility - moved trap door in lucky lockup
+[x] Moved Ald Velothi shack slightly so there isn't a post in the middle of the door
+[x] Gave Ald Skar witchhunter an AI wander package and moved her to a location that's compatible with both vanilla and RP's Ald Skar Inn Overhaul

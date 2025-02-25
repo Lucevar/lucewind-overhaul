@@ -1,3 +1,7 @@
+24/02/2025
+[x] Fixed loop in the guard's greeting if you picked Legion
+
+29/11/2024
 [x] Moved parts of the candle shop workshop around to be compatible with Markond's Caldera Palisade
 [x] Added a chimney to the candle shop exterior
 [x] Gave the candle shop int a makeover to match my OAAB Caldera Interiors mod

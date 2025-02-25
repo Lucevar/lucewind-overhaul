@@ -1,0 +1,1 @@
+Banner for tomb just outside Balmora's south gate no longer floats when used with OLOB
