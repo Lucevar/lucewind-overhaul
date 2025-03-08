@@ -1,5 +1,8 @@
 by Lucevar
 
+07/03/2025:
+[x] Ebonheart Grand Council chambers (Striders Nest + Big Imperial Hall)
+
 Redoran Council Overhall
 [x] Moved portraits to fit with the changed layout of Redoran Council Overhall
 

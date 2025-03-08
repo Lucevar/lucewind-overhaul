@@ -1,0 +1,4 @@
+v1.02 Crown edition 
+
+07/03/2025:
+[x] Compatibility with OAAB Six Fishes

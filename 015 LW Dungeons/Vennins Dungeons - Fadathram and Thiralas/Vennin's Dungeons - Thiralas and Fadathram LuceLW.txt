@@ -1,0 +1,2 @@
+Attached Fadathram to vanilla tomb rather than floating off to the side on its own (to maintain compatibility with a bunch of Fadathram mods)
+changed the firepit to something more dunmeri looking

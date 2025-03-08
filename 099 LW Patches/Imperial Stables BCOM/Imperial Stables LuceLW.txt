@@ -1,0 +1,8 @@
+got rid of caldera stable
+got rid of landscape edits
+moved ebonheart stable
+moved wolverine hall stable
+got rid of buckmoth stable
+got rid of WH stable
+added fleas to stable bed
+gnisis stables edited for compat with very vanilla concept art gnisis

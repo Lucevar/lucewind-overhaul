@@ -1,0 +1,2 @@
+- Moved agent forward veeery slightly so he's easier to talk to
+- Added a journal filter to the little secret so it doesn't drown out other secrets in Ebonheart once you've already got the info.

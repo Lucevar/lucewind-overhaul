@@ -1,0 +1,4 @@
+Overhauled int
+Added Horatio portrait
+Added dim hair brushes
+Moved spider up slightly to avoid conflict with Vennin's Lleran overhaul

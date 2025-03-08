@@ -1,0 +1,4 @@
+Moves the Eight Plates banner so its no longer floating disconnected to the post
+Also Lucky Lockup and South Wall
+Removed South Wall since OLOB has this already? 
+Moved Tel Aruhn one for compatibility with Chronicles

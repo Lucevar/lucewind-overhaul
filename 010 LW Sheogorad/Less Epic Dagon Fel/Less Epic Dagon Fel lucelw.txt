@@ -1,0 +1,3 @@
+Removed unnecessary landscape and cell edits
+removed dwemer tower near MwGek's Dagon Fel Lighthouse
+fixed two caspering (vanilla) lichens

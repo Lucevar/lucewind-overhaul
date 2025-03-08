@@ -1,0 +1,4 @@
+Landscape edit for compatibility with LuceLW imperial stables
+fixed caspering door
+swapped the hideous rug for an OAAB one
+fixed landscaping near Muriel wall that caused some caspering

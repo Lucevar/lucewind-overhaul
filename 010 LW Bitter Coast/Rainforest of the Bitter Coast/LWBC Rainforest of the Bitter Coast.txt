@@ -1,0 +1,9 @@
+06/03/2025:
+[x] Moved a tree in Seyda Neen for compatibility with Denis's house mod
+
+
+In the past:
+[x] Compatibility with Shipyards of Vvardenfell
+[x] Compatibility with hater8's Hla Oad
+[x] Compatibility with Odai Lifeblood of Balmora
+[x] Compatibility with Seyda Neen Damp Little Squat
